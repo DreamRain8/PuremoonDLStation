@@ -109,7 +109,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/main/',
+                    editUrl: 'https://github.com/DreamRain8/lowlight/edit/main/',
                     routeBasePath: "/",
                     showLastUpdateTime: true,
                     showLastUpdateAuthor: true,
@@ -126,7 +126,7 @@ const config = {
                         copyright: `Copyright © 2021 - ${new Date().getFullYear()} Lowlight.`,
                     },
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/main/',
+                    editUrl: 'https://github.com/DreamRain8/lowlight/edit/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -189,13 +189,13 @@ const config = {
                     position: 'right',
                 },
                 {
-                    href: 'https://space.bilibili.com/319171871',
+                    href: 'https://space.bilibili.com/673409542',
                     position: 'right',
                     className: 'header-bili-link',
                     'aria-label': 'Bilibili',
                 },
                 {
-                    href: 'https://github.com/Lytsu/lowlight',
+                    href: 'https://github.com/DreamRain8/lowlight',
                     position: 'right',
                     className: 'header-github-link',
                     'aria-label': 'GitHub repository',
@@ -259,7 +259,7 @@ const config = {
                         },
                         {
                             label: 'GitHub Repo',
-                            href: 'https://github.com/Lytsu/lowlight',
+                            href: 'https://github.com/DreamRain8/lowlight',
                         },
                         {
                             label: '哔哩哔哩',
