@@ -17,7 +17,7 @@ const config = {
         defaultLocale: 'zh-Hans',
         locales: ['zh-Hans'],
     },
-    organizationName: 'Lytsu', // Usually your GitHub org/user name.
+    organizationName: 'DreamRain8', // Usually your GitHub org/user name.
     projectName: 'lowlight', // Usually your repo name.
     plugins: [
         [
