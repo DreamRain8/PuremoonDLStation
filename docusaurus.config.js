@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: '微光 Lowlight',
+    title: 'Puremoon下载站',
     tagline: '「简单的移动端音游下载站」',
     url: 'https://lowi.ro',
     baseUrl: '/',
