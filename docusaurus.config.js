@@ -159,7 +159,7 @@ const config = {
             },
         },
         navbar: {
-            title: '微光 Lowlight',
+            title: 'Puremoon下载站',
             logo: {
                 alt: 'Lowlight Logo',
                 src: 'img/lowlight_maid.webp',
