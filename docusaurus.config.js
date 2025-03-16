@@ -162,7 +162,7 @@ const config = {
             title: 'Puremoon下载站',
             logo: {
                 alt: 'Lowlight Logo',
-                src: 'img/lowlight_maid.webp',
+                src: 'img/puremoon.webp',
             },
             items: [
                 // left
