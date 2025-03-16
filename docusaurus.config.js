@@ -18,7 +18,7 @@ const config = {
         locales: ['zh-Hans'],
     },
     organizationName: 'DreamRain8', // Usually your GitHub org/user name.
-    projectName: 'lowlight', // Usually your repo name.
+    projectName: 'PuremoonDLStation', // Usually your repo name.
     plugins: [
         [
             '@easyops-cn/docusaurus-search-local',
@@ -109,7 +109,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/DreamRain8/lowlight/edit/main/',
+                    editUrl: 'https://github.com/DreamRain8/PuremoonDLStation/edit/main/',
                     routeBasePath: "/",
                     showLastUpdateTime: true,
                     showLastUpdateAuthor: true,
@@ -126,7 +126,7 @@ const config = {
                         copyright: `Copyright © 2021 - ${new Date().getFullYear()} Lowlight.`,
                     },
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/DreamRain8/lowlight/edit/main/',
+                    editUrl: 'https://github.com/DreamRain8/PuremoonDLStation/edit/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -195,7 +195,7 @@ const config = {
                     'aria-label': 'Bilibili',
                 },
                 {
-                    href: 'https://github.com/DreamRain8/lowlight',
+                    href: 'https://github.com/DreamRain8/PuremoonDLStation',
                     position: 'right',
                     className: 'header-github-link',
                     'aria-label': 'GitHub repository',
@@ -259,7 +259,7 @@ const config = {
                         },
                         {
                             label: 'GitHub Repo',
-                            href: 'https://github.com/DreamRain8/lowlight',
+                            href: 'https://github.com/DreamRain8/PuremoonDLStation',
                         },
                         {
                             label: '哔哩哔哩',
