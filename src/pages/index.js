@@ -32,11 +32,11 @@ export default function Home() {
       description="Lowlight - A Faint Light">
         <div>
         <div className={styles.HomepageTips}>
-          关注微光 Lowlight 的
-           <Link to="https://space.bilibili.com/319171871">
+          关注Puremoon音游下载站 的
+           <Link to="https://space.bilibili.com/673409542">
            哔哩哔哩频道
           </Link>
-        ，直接向微光提出你的意见。
+        ，直接向Puremoon提出你的意见。
           </div>
         </div>
       <HomepageHeader />
