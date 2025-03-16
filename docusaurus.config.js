@@ -116,7 +116,7 @@ const config = {
                 },
                 blog: {
                     path: 'blog',
-                    blogTitle: 'Lowlight 博客',
+                    blogTitle: 'Puremoon 博客',
                     blogSidebarTitle: '所有文章',
                     blogSidebarCount: 'ALL',
                     showReadingTime: true,
@@ -307,7 +307,7 @@ const config = {
             },
             copyright: `
             <p><small>
-            Copyright © 2021 - ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
+            Copyright © 2024 - ${new Date().getFullYear()} Puremoon Network. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
             本站与 lowiro limited、SEGA Corporation 及 Pigeon Games 无任何关联与往来。
             </small><p>`,
         },
