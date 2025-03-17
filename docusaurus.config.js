@@ -123,7 +123,7 @@ const config = {
                     postsPerPage: 5,
                     feedOptions: {
                         type: 'all',
-                        copyright: `Copyright © 2021 - ${new Date().getFullYear()} Lowlight.`,
+                        copyright: `Copyright © 2021 - ${new Date().getFullYear()} Puremoon Network.`,
                     },
                     // Please change this to your repo.
                     editUrl: 'https://github.com/DreamRain8/PuremoonDLStation/edit/main/',
@@ -301,7 +301,7 @@ const config = {
                 },
             ],
             logo: {
-                alt: 'Team Lowlight Logo',
+                alt: 'Puremoon Network Logo',
                 src: 'img/team.png',
                 href: '/info/project',
             },
