@@ -1,16 +1,16 @@
-# Lowlight - 音乐节奏游戏下载站
+# Puremoon下载站 - 做一个简单的游戏下载站
 
-<img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Flowlight.pages.dev"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lytsu/lowlight?style=flat-square"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Lytsu/lowlight?style=flat-square"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Lytsu/lowlight?style=flat-square">
+<img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fpuremoondlstation.pages.dev"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lytsu/lowlight?style=flat-square"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Lytsu/lowlight?style=flat-square"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Lytsu/lowlight?style=flat-square">
 
-Lowlight 是一个提供音乐节奏游戏下载的下载站，为部分不便于下载游戏的玩家提供游戏的下载服务。
+Puremoon 下载站 是一个提供各种游戏下载的下载站，为部分不便于下载游戏的玩家提供游戏的下载服务。
 
-此项目为 Lowlight 的前端部分，后端部分由于原理简单，不再单独建立项目。
+此项目为 Puremoon 下载站 的前端部分，后端部分由于原理简单，不再单独建立项目。
 
 ## 版本更迭
 
-Lowlight 2.x 是目前正使用的版本，由 [Docusaurus 2](https://docusaurus.io/) 构建，使用 React 实现，您可以前往其网站和项目首页查看详情。
+PuremoonDLStation 2.x 是目前正使用的版本，由 [Docusaurus 2](https://docusaurus.io/) 构建，使用 React 实现，您可以前往其网站和项目首页查看详情。
 
-Lowlight 1.x 是本站上一个在生产环境部署的版本，由 [docsify](https://docsify.js.org) 构建，使用 Vue 实现；1.x 版本已不再在现今的生产环境进行部署，但您仍然可以在 [Releases](https://github.com/Lytsu/lowlight/releases/tag/1.0.0) 中获取到 1.x 版本的源码，并对其进行研究。
+PuremoonDLStation 1.x 是本站上一个在生产环境部署的版本，由 [docsify](https://docsify.js.org) 构建，使用 Vue 实现；1.x 版本已不再在现今的生产环境进行部署，但您仍然可以在 [Releases](https://github.com/Lytsu/lowlight/releases/tag/1.0.0) 中获取到 1.x 版本的源码，并对其进行研究。
 
 ## 项目状态
 
@@ -27,7 +27,7 @@ Lowlight 1.x 是本站上一个在生产环境部署的版本，由 [docsify](ht
 可以通过 Git 简单克隆本项目的文件（需要安装：[Git](https://git-scm.com/)）：
 
 ```bash
-git clone https://github.com/Lytsu/lowlight.git
+git clone https://github.com/DreamRain8/PuremoonDLStation.git
 ```
 
 亦可以直接下载项目源文件的 .zip 压缩包。
@@ -106,25 +106,21 @@ cmd /C 'set "GIT_USER=<你的 GitHub 用户名>" && yarn deploy'
 
 访问以下域名中的一个，即可进入本站：
 
-- **[lowlight.net](https://lowlight.net)**
-- **[lowi.ro](https://lowi.ro)**
+- **[pmnet.top](https://pmnet.top)**
 - [nhe.lv](https://nhe.lv/)
 
 以下为其他用户赞助的域名：
 
-- **[616.sb](https:/616.sb)** （@马尾理科）
-- **[sega.sb](https://sega.sb)** （@偷税师柑柑）
-- **[arcaea.moe](https://arcaea.moe)** （[@秋葉亜里沙](https://github.com/zhanbao2000)）
-- **[616.gay](https://616.gay)** （[@秋葉亜里沙](https://github.com/zhanbao2000)）
-- 
+- [chunyueyun.yilx.cc](https://chunyueyun.yilx.cc)
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Lytsu/lowlight.svg)](https://starchart.cc/Lytsu/lowlight)
 
 ## 联系我们
 
-[bilibili:微光Lowlight](https://space.bilibili.com/319171871)
+[bilibili:Puremoon音游下载站](https://space.bilibili.com/673409542)
 
-[QQ群: 582810347](https://jq.qq.com/?_wv=1027&k=WAZFYeVn)
+[QQ群: 674102755](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=NhIUf3dm7QRTbsT8-oJaQ8a7bWjoc5FG&authKey=CijTxPtWqmP0TfpHrpelxkGua%2BC2aoYhtpRPx%2BR3rybibYEH6gM5laMsh%2BzKDCk7&noverify=0&group_code=674102755)
 
-Email: yuk1zuna#outlook.com(#→@)
+Email: 3859227514#qq.com(#→@)
