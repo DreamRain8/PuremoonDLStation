@@ -8,9 +8,9 @@ Puremoon 下载站 是一个提供各种游戏下载的下载站，为部分不�
 
 ## 版本更迭
 
-PuremoonDLStation 2.x 是目前正使用的版本，由 [Docusaurus 2](https://docusaurus.io/) 构建，使用 React 实现，您可以前往其网站和项目首页查看详情。
+PuremoonDLStation 2.x 是目前即将更新的版本，由 [Docusaurus 2](https://docusaurus.io/) 构建，使用 React 实现，您可以前往其网站和项目首页查看详情。
 
-PuremoonDLStation 1.x 是本站上一个在生产环境部署的版本，由 [docsify](https://docsify.js.org) 构建，使用 Vue 实现；1.x 版本已不再在现今的生产环境进行部署，但您仍然可以在 [Releases](https://github.com/Lytsu/lowlight/releases/tag/1.0.0) 中获取到 1.x 版本的源码，并对其进行研究。
+PuremoonDLStation 1.x 是本站上一个在生产环境部署的版本，由 [Alist](https://alist.nn.ci) 构建，使用 Go 实现；1.x 版本正在现今的生产环境进行部署。
 
 ## 项目状态
 
