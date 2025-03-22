@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Puremoon下载站',
     tagline: '「简单的移动端音游下载站」',
-    url: 'https://lowi.ro',
+    url: 'https://pmnet.top',
     baseUrl: '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
@@ -123,7 +123,7 @@ const config = {
                     postsPerPage: 5,
                     feedOptions: {
                         type: 'all',
-                        copyright: `Copyright © 2021 - ${new Date().getFullYear()} Puremoon Network.`,
+                        copyright: `Copyright © 2024 - ${new Date().getFullYear()} Puremoon Network.`,
                     },
                     // Please change this to your repo.
                     editUrl: 'https://github.com/DreamRain8/PuremoonDLStation/edit/main/',
@@ -161,7 +161,7 @@ const config = {
         navbar: {
             title: 'Puremoon下载站',
             logo: {
-                alt: 'Lowlight Logo',
+                alt: 'Puremoon Logo',
                 src: 'img/puremoon.webp',
             },
             items: [
@@ -263,19 +263,15 @@ const config = {
                         },
                         {
                             label: '哔哩哔哩',
-                            href: 'https://space.bilibili.com/319171871',
+                            href: 'https://space.bilibili.com/673409542',
                         },
                     ],
                 },
                 {
                     title: '赞助商',
                     items: [{
-                            label: 'PicACG 游戏区',
-                            href: 'https://616.ro/',
-                        },
-                        {
-                            label: 'VikACG 二次元社区',
-                            href: 'https://vikacg.com',
+                            label: '伊linxiyy',
+                            href: 'https://yilx.net/',
                         },
                     ],
                 },
@@ -286,17 +282,9 @@ const config = {
                             href: 'https://konmai.cn',
                         },
                         {
-                            label: '哔哩哔哩工具箱',
-                            href: 'https://tool.rsplwe.com',
+                            label: '云露露--由皮梦运营的QQ机器人',
+                            href: 'https://yunlulu.mengxia.tech',
                         },
-                        {
-                            label: '空白白白白白',
-                            href: 'https://thneden.github.io',
-                        },
-                        {
-                            label: 'KOMANI 工具箱',
-                            href: 'https://komani.moe'
-                        }
                     ],
                 },
             ],
