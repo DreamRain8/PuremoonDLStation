@@ -31,7 +31,7 @@
            <div className="avatar avatar--vertical">
              <img
                className="avatar__photo avatar__photo--xl"
-               src={`${githubUrl}.png`}
+               src={`/static/img/.png`}
                alt={`${name}'s avatar`}
              />
              <div className="avatar__intro">
