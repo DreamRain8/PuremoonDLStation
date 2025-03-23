@@ -13,6 +13,7 @@
    children: ReactNode;
    githubUrl: string;
    biliUrl?: string;
+   qqUrl: string;
  };
 
  function TeamProfileCard({
@@ -21,6 +22,7 @@
    children,
    githubUrl,
    biliUrl,
+   qqUrl,
  }: ProfileProps) {
    return (
      <div className={className}>
@@ -50,6 +52,11 @@
                  哔哩哔哩
                </a>
              )}
+             {qqUrl && (
+               <a className="button button--secondary" href={qqUrl}>
+                 QQ
+               </a>
+             )}
            </div>
          </div>
        </div>
@@ -67,10 +74,9 @@
    return (
      <div className="row">
        <TeamProfileCardCol
-         name="Rytsu"
-         githubUrl="https://github.com/Lytsu"
-         biliUrl="https://space.bilibili.com/5899551">
-            微光 Lowlight 站长/企划创始人，同时也是站点的主要维护者。一年有 365 天都在摸鱼的摆烂大师。
+         name="Mika~"
+         qqUrl="http://wpa.qq.com/msgrd?v=3&amp;uin=3293972621&amp;site=qq&amp;menu=yes"
+            纯月 Puremoon 下载站前站长/企划创始人，同时也是旧站（1.0）的主要维护者。因为某些原因永远地离开了下载站。
        </TeamProfileCardCol>
        <TeamProfileCardCol
          name="Rsplwe"
