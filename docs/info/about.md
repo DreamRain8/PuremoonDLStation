@@ -24,7 +24,7 @@ title:  关于我们
 
 时至今日，下载站已经拥有了数量相当可观的用户群~~（虽然我觉得更多是先发优势及引流）~~，现今每个月的流量支出也十分可观。
 
-让所有人更方便的体验到游戏的乐趣是本站的创立目标之一。2025 年了，让我们一起加油。
+让所有人更方便的体验到游戏的乐趣是**本站的创立目标**之一。2025 年，让我们一起加油。
 
 ## 联系方式
 
@@ -40,10 +40,6 @@ Email: 3859227514@qq.com
 
 排名不分先后。
 
-- [lowlight.net](https://lowlight.net)
-- [lowi.ro](https://lowi.ro)
-- [nhe.lv](https://nhe.lv)
-- [616.sb](https://616.sb)
-- [sega.sb](https://sega.sb)
-- [arcaea.moe](https://arcaea.moe)
-- [616.gay](https://616.gay)
+- [pmnet.top](https://www.pmnet.top)
+- [puremoon.net](https://www.puremoon.net)
+- [pmnet.uk](https://www.pmnet.uk)
