@@ -84,7 +84,7 @@ const config = {
                     {
                         tagName: 'link',
                         rel: 'mask-icon',
-                        href: '/img/lowlight_maid.svg',
+                        href: '/img/puremoon.svg',
                         color: '#8e4bbc',
                     },
                     {
@@ -180,7 +180,7 @@ const config = {
                 // right
                 {
                     label: '更新日志',
-                    to: 'changelog',
+                    to: '/updatelog/main',
                     position: 'right',
                 },
                 {
