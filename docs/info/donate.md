@@ -11,7 +11,7 @@ If you find my work valuable, and would like to encourage the development of the
 
 **如果您只是为了获得安装/游玩教程或下载破解版游戏，恕本站无法满足您的要求，请您谅解。**
 
-如需退款，请将带有付款单号的截图和您的收款码图片一并附上，并发送邮件至 yuk1zuna@outlook.com 。
+如需要未成年退款，请将带有付款单号的截图和您的收款码图片一并附上，并发送邮件至 3859227514@qq.com 。
 
 :::
 
@@ -22,24 +22,24 @@ If you find my work valuable, and would like to encourage the development of the
 <details>
 <summary><b>微信</b></summary>
 
-![mm_facetoface_collect_qrcode_1643810148603](https://s2.loli.net/2022/02/02/MCjSRDBY8bndmvW.png)
+![mm_facetoface_collect_qrcode_1643810148603](/img/wxpay.jpg)
 
 </details>
 
 <details>
 <summary><b>支付宝</b></summary>
 
-![1643810141700](https://s2.loli.net/2022/02/02/a5MBeXhLJyxz6tm.jpg)
+![1643810141700](/img/alipay.jpg)
 
 </details>
 
 ### 其他方式
 
-#### 网课助力（大学）
+#### 爱发电（暂未开通）
 
-支持超星/学习通、知到/智慧树、中国大学 MOOC、U 校园/Utalk 等网课的助力，以及步道乐跑、运动世界校园等校园跑助力。
+支持微信、支付宝、PayPal、银行卡。
 
-<p><a href="https://sb616.k100.top" class="buttonDownload">点击进入网站</a></p>
+<p><a href="https://example.com" class="buttonDownload">敬请期待</a></p>
 
 -----
 
@@ -58,31 +58,27 @@ If you find my work valuable, and would like to encourage the development of the
 
 | 运营商/机房   | 所处地区 | 用途          | 开销（人民币/月） |
 | ------------- | -------- | ------------- | ----------------- |
-| UOVZ CMI      | 中国香港 | 主站前后端    | 24                |
-| LayerHost     | 美国     | 下载节点      | 65                |
-| DigitalOcean  | 美国     | 下载节点/测试 | 65                |
-| CERA Networks | 美国     | 下载节点      | 60                |
-| SpartanHost   | 美国     | 下载节点      | 30                |
-| AWS           | 新加坡   | 下载节点      | 30                |
-| Skylink       | 荷兰     | 备用节点      | 30                |
+| Amazon AWS    | 中国香港  | 主站前后端    | 40                |
+| Cloud Innovation | 日本东京 | 下载节点    | 35                   |
+| 阿里云三网BGP  | 中国     | 下载节点      | 55                |
+| 电信高速专线   | 中国     | 备用节点      | 组内人员无偿提供    |
+| 联通高速专线   | 中国     | 备用节点      | 组内人员无偿提供    |
+| CERA Networks | 美国     | 备用节点      | 30                |
+| Cloudflare    | 全球     | CDN          | 0                |
 
 #### 域名
 
 | 域名         | 用途               | 开销（人民币/年） |
 | ------------ | ------------------ | ----------------- |
-| lowi.ro      | 站点访问域名       | 65                |
-| nhe.lv       | 站点访问域名       | 80                |
-| lowlight.net | 站点访问域名       | 65                |
-| 4396.eu      | CAPTCHA 跳转页     | 80                |
-| rytsu.org    | 节点使用的主要域名 | 75                |
-| 616.sb       | 站点访问域名       | 其他玩家提供      |
-| sega.sb      | 站点访问域名       | 其他玩家提供      |
+| pmnet.top    | 站点访问域名       | 30                |
+| puremoon.net | 站点访问域名       | 115                |
+| pmnet.uk     | 站点访问域名       | 35                |
 
 #### 其他开支
 
 | 名称          | 用途         | 开销（人民币/年） |
 | ------------- | ------------ | ----------------- |
-| Server 酱推送 | 推送掉线警报 | 40                |
+| 暂无          |              |                   |
 |               |              |                   |
 |               |              |                   |
 
