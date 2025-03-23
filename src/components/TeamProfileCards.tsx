@@ -75,7 +75,7 @@
      <div className="row">
        <TeamProfileCardCol
          name="Mika~"
-         qqUrl="http://wpa.qq.com/msgrd?v=3&amp;uin=3293972621&amp;site=qq&amp;menu=yes"
+         qqUrl="http://wpa.qq.com/msgrd?v=3&amp;uin=3293972621&amp;site=qq&amp;menu=yes">
             纯月 Puremoon 下载站前站长/企划创始人，同时也是旧站（1.0）的主要维护者。因为某些原因永远地离开了下载站。
        </TeamProfileCardCol>
        <TeamProfileCardCol
