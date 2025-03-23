@@ -31,7 +31,7 @@
            <div className="avatar avatar--vertical">
              <img
                className="avatar__photo avatar__photo--xl"
-               src={`/img/${name}.jpg`}
+               src={`/img/avatar_${name}.jpg`}
                alt={`${name}'s avatar`}
              />
              <div className="avatar__intro">
@@ -79,15 +79,16 @@
             纯月 Puremoon 下载站前站长/企划创始人，同时也是旧站（1.0）的主要维护者。因为某些原因永远地离开了下载站。
        </TeamProfileCardCol>
        <TeamProfileCardCol
-         name="Rsplwe"
-         githubUrl="https://github.com/Rsplwe"
-         biliUrl="https://space.bilibili.com/44974083">
-            微光 Lowlight 企划的主要技术支持，为下载站带来的贡献不知道比站长本人高到哪里去了（
+         name="DreamRain"
+         githubUrl="https://github.com/DreamRain8"
+         biliUrl="https://space.bilibili.com/673409542">
+            纯月 Puremoon 下载站的现任站长，负责下载站全部事务。
        </TeamProfileCardCol>
        <TeamProfileCardCol
-         name="ForteEXE"
-         githubUrl="https://github.com/ForteEXE">
-            下载站重要维护者之一，站长早上八点起不了床的时候都是这位负责 Arcaea 的更新。
+         name="Pimeng"
+         githubUrl="https://github.com/pimeng"
+         biliUrl="https://space.bilibili.com/36191664">
+            下载站重要维护者之一，负责电信备用节点 和 联通备用节点的更新。
        </TeamProfileCardCol>
      </div>
    );
