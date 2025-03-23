@@ -31,7 +31,7 @@
            <div className="avatar avatar--vertical">
              <img
                className="avatar__photo avatar__photo--xl"
-               src={`/static/img/${name}.jpg`}
+               src={`/img/${name}.jpg`}
                alt={`${name}'s avatar`}
              />
              <div className="avatar__intro">
