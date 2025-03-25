@@ -1,0 +1,92 @@
+import React from 'react';
+import Link from '@docusaurus/Link';
+import { useColorMode } from '@docusaurus/theme-common';
+
+// 暗黑模式感知的卡片容器
+const CardContainer = ({ children }) => {
+  const { colorMode } = useColorMode();
+  
+  return (
+    <div
+      style={{
+        backgroundColor: colorMode === 'dark' ? 'var(--ifm-background-color)' : '#ffffff',
+        border: `1px solid ${colorMode === 'dark' ? 'var(--ifm-color-emphasis-200)' : '#eeeeee'}`,
+        transition: 'all 0.3s ease',
+        '&:hover': {
+          boxShadow: colorMode === 'dark' 
+            ? '0 4px 8px rgba(255,255,255,0.1)' 
+            : '0 4px 8px rgba(0,0,0,0.1)'
+        }
+      }}>
+      {children}
+    </div>
+  )
+}
+
+// 游戏卡片组件
+const GameCard = ({ game }) => (
+  <Link
+    to={game.path}
+    className="game-card"
+    style={{
+      textDecoration: 'none',
+      color: 'var(--ifm-font-color-base)',
+      display: 'block',
+      height: '100%'
+    }}>
+    <CardContainer>
+      <div style={{
+        padding: '1.5rem',
+        textAlign: 'center',
+        transition: 'transform 0.2s',
+        '&:hover': {
+          transform: 'scale(1.02)'
+        }
+      }}>
+        <div style={{
+          position: 'relative',
+          margin: '0 auto 1rem',
+          width: '120px',
+          height: '120px',
+          borderRadius: '16px',
+          backgroundColor: 'var(--ifm-color-emphasis-100)',
+          padding: '12px'
+        }}>
+          <img
+            src={game.icon}
+            alt={game.name}
+            style={{
+              width: '100%',
+              height: '100%',
+              objectFit: 'contain',
+              filter: 'var(--game-icon-filter)'
+            }}
+          />
+        </div>
+        <h3 style={{
+          margin: 0,
+          fontSize: '1.1rem',
+          color: 'var(--ifm-heading-color)'
+        }}>
+          {game.name}
+        </h3>
+      </div>
+    </CardContainer>
+  </Link>
+);
+
+// 主组件
+export default function GameGallery() {
+  return (
+    <div style={{
+      display: 'grid',
+      gridTemplateColumns: 'repeat(auto-fill, minmax(240px, 1fr))',
+      gap: '2rem',
+      padding: '2rem'
+    }}>
+      {games.map((game, index) => (
+        <GameCard key={index} game={game} />
+      ))}
+    </div>
+  )
+}
