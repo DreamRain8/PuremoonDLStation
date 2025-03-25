@@ -40,13 +40,9 @@ const sidebars = {
             ],
         },
         {
-            type: 'category',
+            type: 'doc',
+            id: 'changelog',
             label: '📝更新日志',
-            collapsed: true,
-            items: [
-                'updatelog/main',
-                'updatelog/ctnode',
-            ],
         },
     ],
     // But you can create a sidebar manually
