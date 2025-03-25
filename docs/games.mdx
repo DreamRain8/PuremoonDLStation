@@ -2,9 +2,13 @@
 title: 游戏下载
 ---
 
+import React from 'react';
 import GameCard from '@site/src/components/GameCard/GameCard';
-import { GAMES } from '@site/src/pages/games';
+import { GAMES } from '@site/src/data/games';
 
+// 添加默认导出组件
+const GamesPage = () => (
+  <>
 <style>{`
   .games-container {
     display: grid;
