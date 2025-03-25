@@ -4,33 +4,45 @@ title: 游戏下载
 
 import React from 'react';
 import GameCard from '@site/src/components/GameCard/GameCard';
-import { GAMES } from '@site/src/data/games';
+import { GAMES } from '@site/src/pages/games';
 
-// 添加默认导出组件
+// 确保所有JSX标签正确闭合
 const GamesPage = () => (
-  <>
-<style>{`
-  .games-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-    gap: 1.5rem;
-    padding: 2rem 1rem;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  
-  @media (max-width: 480px) {
-    .games-container {
-      grid-template-columns: 1fr;
-      padding: 1rem;
-    }
-  }
-`}</style>
+  <main>
+    {/* 样式区块必须完全闭合 */}
+    <style>{`
+      .games-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 1.5rem;
+        padding: 2rem 1rem;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      
+      @media (max-width: 480px) {
+        .games-container {
+          grid-template-columns: 1fr;
+          padding: 1rem;
+        }
+      }
+    `}</style>
 
-# 游戏中心
+    {/* 标题使用JSX语法 */}
+    <h1>游戏中心</h1>
 
-<div className="games-container">
-  {GAMES.map((game) => (
-    <GameCard key={game.title} {...game} />
-  ))}
-</div>
+    {/* 确保数组遍历完全闭合 */}
+    <div className="games-container">
+      {GAMES.map((game) => (
+        <GameCard 
+          key={game.title}
+          title={game.title}
+          icon={game.icon}
+          url={game.url}
+        />  {/* 注意组件闭合 */}
+      ))}
+    </div>
+  </main>
+);
+
+export default GamesPage; // 必须的默认导出
