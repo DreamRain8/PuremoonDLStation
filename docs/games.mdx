@@ -1,107 +1,162 @@
-import Link from '@docusaurus/Link';
-import { useColorMode } from '@docusaurus/theme-common';
+---
+title: 游戏下载
+---
 
-// 测试数据（需替换实际图标路径）
-const games = [
-  {
-    name: '星际探险',
-    icon: '/img/game-icons/space-adventure.png',
-    path: '/games/space-adventure'
-  },
-  {
-    name: '魔法学院', 
-    icon: '/img/game-icons/magic-academy.png',
-    path: '/games/magic-academy'
-  },
-  {
-    name: '赛车传奇',
-    icon: '/img/game-icons/racing-legends.png',
-    path: '/games/racing-legends'
-  }
-];
+import Img from '../src/components/GameIconImg.js'
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-// 卡片容器（暗黑模式适配）
-function CardContainer({ children }) {
-  const { colorMode } = useColorMode();
-  
-  return (
-    <div 
-      style={{
-        background: colorMode === 'dark' 
-          ? 'rgba(255,255,255,0.05)' 
-          : '#ffffff',
-        borderRadius: '12px',
-        border: `1px solid ${colorMode === 'dark' ? '#2d2d2d' : '#eaeaea'}`,
-        boxShadow: '0 3px 6px rgba(0,0,0,0.1)',
-        transition: 'transform 0.2s ease, box-shadow 0.2s ease',
-        overflow: 'hidden'
-      }}>
-      {children}
-    </div>
-  );
-}
+[//]: # (保留原有导航部分不变)
+[常见问题](faq) | [更新日志](changelog) | [节点状态](https://stat.lowi.ro) | [捐赠支持](info/donate)
 
-// 单个游戏卡片
-function GameCard({ game }) {
-  return (
-    <Link 
-      to={game.path}
-      style={{
-        textDecoration: 'none',
-        color: 'inherit',
-        display: 'block',
-        height: '100%'
-      }}>
-      <CardContainer>
-        <div style={{ padding: '1.5rem' }}>
-          <div style={{
-            width: '100%',
-            height: '160px',
-            borderRadius: '8px',
-            backgroundColor: 'var(--ifm-color-emphasis-100)',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            marginBottom: '1rem'
-          }}>
-            <img 
-              src={game.icon} 
-              alt={game.name}
-              style={{
-                maxWidth: '120px',
-                maxHeight: '120px',
-                objectFit: 'contain'
-              }}
-            />
-          </div>
-          <h3 style={{
-            margin: 0,
-            fontSize: '1.2rem',
-            textAlign: 'center',
-            color: 'var(--ifm-heading-color)'
-          }}>
-            {game.name}
-          </h3>
+-----
+
+<div class="konmai-grid">
+
+  <!-- 经典类型 -->
+  <div class="category-section">
+    <h2 class="category-title">🎮 经典音游</h2>
+    <div class="game-grid">
+      <a href="#arcaea" class="konmai-card">
+        <Img src="../img/games/arcaea.webp" class="konmai-icon"/>
+        <div class="konmai-card-body">
+          <h3>Arcaea</h3>
+          <p>韵律源点</p>
         </div>
-      </CardContainer>
-    </Link>
-  );
+      </a>
+      
+      <a href="#beatmania" class="konmai-card">
+        <Img src="../img/games/beatmania.webp" class="konmai-icon"/>
+        <div class="konmai-card-body">
+          <h3>Beatmania IIDX</h3>
+          <p>狂热节拍</p>
+        </div>
+      </a>
+      
+      <!-- 更多游戏卡片... -->
+    </div>
+  </div>
+
+  <!-- 社区同人 -->
+  <div class="category-section">
+    <h2 class="category-title">🎨 社区作品</h2>
+    <div class="game-grid">
+      <a href="#astrodx" class="konmai-card">
+        <Img src="../img/games/astrodx.webp" class="konmai-icon"/>
+        <div class="konmai-card-body">
+          <h3>AstroDX</h3>
+          <p>星空弹奏</p>
+        </div>
+      </a>
+      
+      <!-- 更多社区游戏卡片... -->
+    </div>
+  </div>
+
+</div>
+
+<!-- 保留原有游戏详情部分不变 -->
+### <Img src="../img/games/arcaea.webp" class="gameicon"/> Arcaea (韵律源点) {#arcaea}
+
+<Tabs>
+...
+</Tabs>
+
+<style>{`
+/* Konmai 风格布局 */
+.konmai-grid {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
-// 主布局组件
-export default function GameGallery() {
-  return (
-    <div style={{
-      display: 'grid',
-      gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-      gap: '2rem',
-      padding: '2rem',
-      maxWidth: '1200px',
-      margin: '0 auto'
-    }}>
-      {games.map((game) => (
-        <GameCard key={game.path} game={game} />
-      ))}
-    </div>
-  );
+.category-section {
+  margin: 40px 0;
 }
+
+.category-title {
+  font-size: 1.8rem;
+  color: #2c3e50;
+  border-left: 4px solid #e74c3c;
+  padding-left: 1rem;
+  margin: 2rem 0;
+}
+
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 25px;
+  padding: 10px 0;
+}
+
+.konmai-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: hidden;
+  text-decoration: none !important;
+  position: relative;
+}
+
+.konmai-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+
+.konmai-icon {
+  width: 100%;
+  height: 160px;
+  object-fit: contain;
+  padding: 20px;
+  background: #f8f9fa;
+  border-bottom: 1px solid #eee;
+}
+
+.konmai-card-body {
+  padding: 20px;
+  flex-grow: 1;
+}
+
+.konmai-card h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #2c3e50;
+  line-height: 1.4;
+}
+
+.konmai-card p {
+  margin: 8px 0 0;
+  font-size: 0.9rem;
+  color: #7f8c8d;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .game-grid {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 15px;
+  }
+  
+  .konmai-icon {
+    height: 120px;
+    padding: 15px;
+  }
+  
+  .konmai-card-body {
+    padding: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .category-title {
+    font-size: 1.5rem;
+  }
+  
+  .game-grid {
+    grid-template-columns: 1fr;
+  }
+}
+`}</style>
