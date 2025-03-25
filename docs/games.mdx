@@ -1,40 +1,107 @@
 import Link from '@docusaurus/Link';
 import { useColorMode } from '@docusaurus/theme-common';
 
-// 游戏数据定义（必须在组件前声明）
+// 测试数据（需替换实际图标路径）
 const games = [
   {
-    name: '示例游戏',
-    icon: '/img/icon.png',
-    path: '/docs/games'
+    name: '星际探险',
+    icon: '/img/game-icons/space-adventure.png',
+    path: '/games/space-adventure'
+  },
+  {
+    name: '魔法学院', 
+    icon: '/img/game-icons/magic-academy.png',
+    path: '/games/magic-academy'
+  },
+  {
+    name: '赛车传奇',
+    icon: '/img/game-icons/racing-legends.png',
+    path: '/games/racing-legends'
   }
 ];
 
-// 卡片容器组件
-const CardContainer = ({ children }) => {
+// 卡片容器（暗黑模式适配）
+function CardContainer({ children }) {
   const { colorMode } = useColorMode();
-  // ...组件实现
-}
-
-// 单张卡片组件
-const GameCard = ({ game }) => { // ✅ 正确接收参数
+  
   return (
-    <CardContainer>
-      <Link to={game.path}> {/* ✅ 正确访问属性 */}
-        <img src={game.icon} />
-        <h3>{game.name}</h3>
-      </Link>
-    </CardContainer>
-  )
+    <div 
+      style={{
+        background: colorMode === 'dark' 
+          ? 'rgba(255,255,255,0.05)' 
+          : '#ffffff',
+        borderRadius: '12px',
+        border: `1px solid ${colorMode === 'dark' ? '#2d2d2d' : '#eaeaea'}`,
+        boxShadow: '0 3px 6px rgba(0,0,0,0.1)',
+        transition: 'transform 0.2s ease, box-shadow 0.2s ease',
+        overflow: 'hidden'
+      }}>
+      {children}
+    </div>
+  );
 }
 
-// 主组件
+// 单个游戏卡片
+function GameCard({ game }) {
+  return (
+    <Link 
+      to={game.path}
+      style={{
+        textDecoration: 'none',
+        color: 'inherit',
+        display: 'block',
+        height: '100%'
+      }}>
+      <CardContainer>
+        <div style={{ padding: '1.5rem' }}>
+          <div style={{
+            width: '100%',
+            height: '160px',
+            borderRadius: '8px',
+            backgroundColor: 'var(--ifm-color-emphasis-100)',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            marginBottom: '1rem'
+          }}>
+            <img 
+              src={game.icon} 
+              alt={game.name}
+              style={{
+                maxWidth: '120px',
+                maxHeight: '120px',
+                objectFit: 'contain'
+              }}
+            />
+          </div>
+          <h3 style={{
+            margin: 0,
+            fontSize: '1.2rem',
+            textAlign: 'center',
+            color: 'var(--ifm-heading-color)'
+          }}>
+            {game.name}
+          </h3>
+        </div>
+      </CardContainer>
+    </Link>
+  );
+}
+
+// 主布局组件
 export default function GameGallery() {
   return (
-    <div style={/* 网格样式 */}>
-      {games.map((g) => ( // ✅ 变量名保持一致性
-        <GameCard key={g.path} game={g} /> 
+    <div style={{
+      display: 'grid',
+      gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
+      gap: '2rem',
+      padding: '2rem',
+      maxWidth: '1200px',
+      margin: '0 auto'
+    }}>
+      {games.map((game) => (
+        <GameCard key={game.path} game={game} />
       ))}
     </div>
-  )
+  );
 }
