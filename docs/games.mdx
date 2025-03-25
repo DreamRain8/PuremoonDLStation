@@ -2,161 +2,31 @@
 title: 游戏下载
 ---
 
-import Img from '../src/components/GameIconImg.js'
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-[//]: # (保留原有导航部分不变)
-[常见问题](faq) | [更新日志](changelog) | [节点状态](https://stat.lowi.ro) | [捐赠支持](info/donate)
-
------
-
-<div class="konmai-grid">
-
-  <!-- 经典类型 -->
-  <div class="category-section">
-    <h2 class="category-title">🎮 经典音游</h2>
-    <div class="game-grid">
-      <a href="#arcaea" class="konmai-card">
-        <Img src="../img/games/arcaea.webp" class="konmai-icon"/>
-        <div class="konmai-card-body">
-          <h3>Arcaea</h3>
-          <p>韵律源点</p>
-        </div>
-      </a>
-      
-      <a href="#beatmania" class="konmai-card">
-        <Img src="../img/games/beatmania.webp" class="konmai-icon"/>
-        <div class="konmai-card-body">
-          <h3>Beatmania IIDX</h3>
-          <p>狂热节拍</p>
-        </div>
-      </a>
-      
-      <!-- 更多游戏卡片... -->
-    </div>
-  </div>
-
-  <!-- 社区同人 -->
-  <div class="category-section">
-    <h2 class="category-title">🎨 社区作品</h2>
-    <div class="game-grid">
-      <a href="#astrodx" class="konmai-card">
-        <Img src="../img/games/astrodx.webp" class="konmai-icon"/>
-        <div class="konmai-card-body">
-          <h3>AstroDX</h3>
-          <p>星空弹奏</p>
-        </div>
-      </a>
-      
-      <!-- 更多社区游戏卡片... -->
-    </div>
-  </div>
-
-</div>
-
-<!-- 保留原有游戏详情部分不变 -->
-### <Img src="../img/games/arcaea.webp" class="gameicon"/> Arcaea (韵律源点) {#arcaea}
-
-<Tabs>
-...
-</Tabs>
+import GameCard from '@site/src/components/GameCard/GameCard';
+import { GAMES } from '@site/src/pages/games';
 
 <style>{`
-/* Konmai 风格布局 */
-.konmai-grid {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-.category-section {
-  margin: 40px 0;
-}
-
-.category-title {
-  font-size: 1.8rem;
-  color: #2c3e50;
-  border-left: 4px solid #e74c3c;
-  padding-left: 1rem;
-  margin: 2rem 0;
-}
-
-.game-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 25px;
-  padding: 10px 0;
-}
-
-.konmai-card {
-  display: flex;
-  flex-direction: column;
-  background: #fff;
-  border-radius: 16px;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  overflow: hidden;
-  text-decoration: none !important;
-  position: relative;
-}
-
-.konmai-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
-}
-
-.konmai-icon {
-  width: 100%;
-  height: 160px;
-  object-fit: contain;
-  padding: 20px;
-  background: #f8f9fa;
-  border-bottom: 1px solid #eee;
-}
-
-.konmai-card-body {
-  padding: 20px;
-  flex-grow: 1;
-}
-
-.konmai-card h3 {
-  margin: 0;
-  font-size: 1.2rem;
-  color: #2c3e50;
-  line-height: 1.4;
-}
-
-.konmai-card p {
-  margin: 8px 0 0;
-  font-size: 0.9rem;
-  color: #7f8c8d;
-}
-
-/* 响应式设计 */
-@media (max-width: 768px) {
-  .game-grid {
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 15px;
+  .games-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
   }
   
-  .konmai-icon {
-    height: 120px;
-    padding: 15px;
+  @media (max-width: 480px) {
+    .games-container {
+      grid-template-columns: 1fr;
+      padding: 1rem;
+    }
   }
-  
-  .konmai-card-body {
-    padding: 15px;
-  }
-}
-
-@media (max-width: 480px) {
-  .category-title {
-    font-size: 1.5rem;
-  }
-  
-  .game-grid {
-    grid-template-columns: 1fr;
-  }
-}
 `}</style>
+
+# 游戏中心
+
+<div className="games-container">
+  {GAMES.map((game) => (
+    <GameCard key={game.title} {...game} />
+  ))}
+</div>
