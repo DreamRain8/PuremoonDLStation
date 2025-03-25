@@ -16,13 +16,11 @@
     --ifm-color-primary-lighter: #ad7dcf;
     --ifm-color-primary-lightest: #b990d5;
     --ifm-code-font-size: 95%;
-    --game-icon-filter: none;
 }
 
 html[data-theme='dark'] {
     --ifm-color-primary: #b990db;
     --ifm-color-primary-dark: #ad7dca;
-    -game-icon-filter: brightness(0.9) saturate(0.8);
     /* any other colors you wish to overwrite */
 }
 
@@ -181,21 +179,6 @@ html[data-theme='dark'] hr {
     vertical-align: middle;
     margin-right: 6px;
 }
-
-
-.game-card:hover {
-  text-decoration: none !important;
-}
-
-/* 优化卡片悬停动画 */
-@media (hover: hover) {
-  .game-card:hover {
-    transform: translateY(-3px);
-  }
-}
-
-
-
 
 
 /* 特殊时期时网页黑白 */
