@@ -1,0 +1,40 @@
+import Link from '@docusaurus/Link';
+import { useColorMode } from '@docusaurus/theme-common';
+
+// 游戏数据定义（必须在组件前声明）
+const games = [
+  {
+    name: '示例游戏',
+    icon: '/img/icon.png',
+    path: '/docs/demo'
+  }
+];
+
+// 卡片容器组件
+const CardContainer = ({ children }) => {
+  const { colorMode } = useColorMode();
+  // ...组件实现
+}
+
+// 单张卡片组件
+const GameCard = ({ game }) => { // ✅ 正确接收参数
+  return (
+    <CardContainer>
+      <Link to={game.path}> {/* ✅ 正确访问属性 */}
+        <img src={game.icon} />
+        <h3>{game.name}</h3>
+      </Link>
+    </CardContainer>
+  )
+}
+
+// 主组件
+export default function GameGallery() {
+  return (
+    <div style={/* 网格样式 */}>
+      {games.map((g) => ( // ✅ 变量名保持一致性
+        <GameCard key={g.path} game={g} /> 
+      ))}
+    </div>
+  )
+}
