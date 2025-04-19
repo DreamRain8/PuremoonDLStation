@@ -1,6 +1,6 @@
 {
-    "name": "lowlight-v2",
-    "version": "2.0.2",
+    "name": "PuremoonDLStation-v2",
+    "version": "2.0.0",
     "private": true,
     "scripts": {
         "docusaurus": "docusaurus",
@@ -37,5 +37,5 @@
             "last 1 safari version"
         ]
     },
-    "description": "Docusaurus example project"
+    "description": "一个综合性质的下载站。"
 }
