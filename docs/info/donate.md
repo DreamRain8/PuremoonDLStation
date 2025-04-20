@@ -61,8 +61,8 @@ If you find my work valuable, and would like to encourage the development of the
 | Amazon AWS    | 中国香港  | 主站前后端    | 40                |
 | Cloud Innovation | 日本东京 | 下载节点    | 35                   |
 | 阿里云三网BGP  | 中国     | 下载节点      | 55                |
-| 电信高速专线   | 中国     | 备用节点      | 组内人员无偿提供    |
-| 联通高速专线   | 中国     | 备用节点      | 组内人员无偿提供    |
+| 电信高速专线   | 中国     | 备用节点      | 皮梦：一个月80！    |
+| 联通高速专线   | 中国     | 备用节点      | 皮梦：一个月40！    |
 | CERA Networks | 美国     | 备用节点      | 30                |
 | Cloudflare    | 全球     | CDN          | 0                |
 
