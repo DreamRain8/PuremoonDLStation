@@ -88,7 +88,7 @@
          name="Pimeng"
          githubUrl="https://github.com/pimeng"
          biliUrl="https://space.bilibili.com/36191664">
-            下载站重要维护者之一，负责电信备用节点 和 联通备用节点的更新。
+            下载站重要维护者之一，负责高速节点内容更新和网站维护。
        </TeamProfileCardCol>
      </div>
    );
