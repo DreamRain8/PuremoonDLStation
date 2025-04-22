@@ -282,8 +282,8 @@ const config = {
                             href: 'https://konmai.cn',
                         },
                         {
-                            label: '云露露--由皮梦运营的QQ机器人',
-                            href: 'https://yunlulu.mengxia.tech',
+                            label: '云露露Bot--由皮梦运营的QQ平台机器人',
+                            href: 'https://ylldoc.sdbit.net.cn',
                         },
                     ],
                 },
