@@ -272,7 +272,7 @@ const config = {
                             label: '伊linxiyy',
                             href: 'https://yilx.net/',
                         },{
-                            label: '伊linxiyy',
+                            label: '皮梦',
                             href: 'https://www.pimeng.icu/',
                         }
                     ],
