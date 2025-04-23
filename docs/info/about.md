@@ -30,7 +30,7 @@ title:  关于我们
 
 [bilibili:Puremoon音游下载站](https://space.bilibili.com/673409542)
 
-[QQ群: 582810347](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uZZjWCZ1kPVaYgVBnMm3QJxKtCxwI6RH&authKey=5NY%2FTVTQCYm7VBi1GzlfVDCSSqNvgW721D%2FwaAPe28IQmbKbvCnMai%2B5eo0LGyeF&noverify=0&group_code=674102755)
+[QQ交流群: 582810347](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uZZjWCZ1kPVaYgVBnMm3QJxKtCxwI6RH&authKey=5NY%2FTVTQCYm7VBi1GzlfVDCSSqNvgW721D%2FwaAPe28IQmbKbvCnMai%2B5eo0LGyeF&noverify=0&group_code=674102755)
 
 Email: 3859227514@qq.com
 
