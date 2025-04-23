@@ -17,8 +17,8 @@ const config = {
         defaultLocale: 'zh-Hans',
         locales: ['zh-Hans'],
     },
-    organizationName: 'DreamRain8', // Usually your GitHub org/user name.
-    projectName: 'PuremoonDLStation', // Usually your repo name.
+    organizationName: 'DreamRain8',
+    projectName: 'PuremoonDLStation',
     plugins: [
         [
             '@easyops-cn/docusaurus-search-local',
@@ -108,7 +108,6 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    // Please change this to your repo.
                     editUrl: 'https://github.com/DreamRain8/PuremoonDLStation/edit/main/',
                     routeBasePath: "/",
                     showLastUpdateTime: true,
@@ -272,7 +271,10 @@ const config = {
                     items: [{
                             label: '伊linxiyy',
                             href: 'https://yilx.net/',
-                        },
+                        },{
+                            label: '伊linxiyy',
+                            href: 'https://www.pimeng.icu/',
+                        }
                     ],
                 },
                 {
@@ -282,7 +284,7 @@ const config = {
                             href: 'https://konmai.cn',
                         },
                         {
-                            label: '云露露Bot--由皮梦运营的QQ平台机器人',
+                            label: '云露露Bot 一款游戏信息查询机器人',
                             href: 'https://ylldoc.sdbit.net.cn',
                         },
                     ],

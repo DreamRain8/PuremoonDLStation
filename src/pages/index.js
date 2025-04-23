@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <Layout
       title={`首页`}
-      description="Lowlight - A Faint Light">
+      description="Puremoon - To be a simple DownloadStation.">
         <div>
         <div className={styles.HomepageTips}>
           关注Puremoon音游下载站 的

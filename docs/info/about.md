@@ -43,3 +43,4 @@ Email: 3859227514@qq.com
 - [pmnet.top](https://www.pmnet.top)
 - [puremoon.net](https://www.puremoon.net)
 - [pmnet.uk](https://www.pmnet.uk)
+- [pmnet.work](javascript:alert("备案中，暂时无法访问"))

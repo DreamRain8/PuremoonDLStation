@@ -16,7 +16,7 @@ const FeatureList = [{
         description: (
         <>
             Puremoon下载站 是<b>公益</b>的兴趣项目，且不以盈利为目的。
-            为音游玩家提供更多的资源分享，是 Puremoon 的目标与信条。
+            为音游玩家提供更多且方便的资源分享，是 Puremoon 的目标与信条。
         </>
         ),
     },

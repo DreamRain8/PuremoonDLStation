@@ -20,7 +20,7 @@ title: 电信节点内容更新日志
 
 3. 对于需要模拟器的Galgame已新增对于模拟器注释
 
-4. 新增RPGVX的RTP运行库，该运行库可用于直接导入到joiplay
+4. 新增RPGVX的RTP运行库（Windows），该运行库兼容joiplay，可用于直接导入到joiplay中使用
 
 </details>
 

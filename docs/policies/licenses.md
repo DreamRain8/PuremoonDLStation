@@ -26,6 +26,14 @@
 
 ### chunyueyun.yilx.cc
 
+域名实际持有人：伊linxiyy
+
 本站在 伊linxiyy 授意下，授权取得 [chunyueyun.yilx.cc](https://chunyueyun.yilx.cc) 域名**受限制的使用权**，用于展开业务活动。
 
 伊linxiyy 实际持有「chunyueyun.yilx.cc」域名及其所有相关资产，并随时有权利中止本站使用本域名，而不需事先经由本站许可。
+
+### pmnet.work
+
+域名实际拥有人：皮梦
+
+本站在 皮梦 授意下，授权取得该域名使用权，允许用于各种行为（不违反中国法律前提下）。

@@ -1,6 +1,6 @@
 {
-    "name": "微光 Lowlight",
-    "short_name": "Lowlight",
+    "name": "纯月 Puremoon",
+    "short_name": "Puremoon",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
@@ -8,7 +8,7 @@
     "start_url": "./index.html",
     "related_applications": [{
         "platform": "webapp",
-        "url": "https://lowi.ro/manifest.json"
+        "url": "https://cf.pmnet.top/static/manifest.json"
     }],
     "icons": [{
             "src": "/img/pwa/icon-72x72.png",
