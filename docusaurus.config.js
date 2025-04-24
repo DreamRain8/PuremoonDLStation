@@ -19,6 +19,18 @@ const config = {
     },
     organizationName: 'DreamRain8',
     projectName: 'PuremoonDLStation',
+    stylesheets: [
+     {
+       href: '/css/loading.css',
+       type: 'text/css',
+     },
+   ],
+   scripts: [
+     {
+       src: '/js/loading.js',
+       defer: true,
+     },
+   ],
     plugins: [
         [
             '@easyops-cn/docusaurus-search-local',
@@ -128,7 +140,10 @@ const config = {
                     editUrl: 'https://github.com/DreamRain8/PuremoonDLStation/edit/main/',
                 },
                 theme: {
-                    customCss: require.resolve('./src/css/custom.css'),
+                    customCss: [
+                        require.resolve('./src/css/custom.css'),
+                        require.resolve('./src/css/loading.css'), // 同时在这里注册
+                    ],
                 },
                 sitemap: {
                     changefreq: 'weekly',
@@ -308,12 +323,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  // ...其他配置
-  stylesheets: [
-    'css/loading.css',
-  ],
-  scripts: [
-    'js/loading.js',
-  ],
-}; 
+module.exports = config;
