@@ -308,4 +308,12 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  // ...其他配置
+  stylesheets: [
+    'css/loading.css',
+  ],
+  scripts: [
+    'js/loading.js',
+  ],
+}; 
