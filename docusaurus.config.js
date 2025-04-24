@@ -239,7 +239,7 @@ const config = {
                         },
                         {
                             label: '更新日志',
-                            to: 'changelog',
+                            to: 'changelog/main',
                         },
                         {
                             label: '使用帮助',
