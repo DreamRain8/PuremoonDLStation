@@ -12,7 +12,7 @@ title:  疑问解答
 
 - 长按复制下载链接，并将下载链接粘贴到浏览器地址栏或其他下载工具打开；
 - 清除浏览器缓存，强制关闭浏览器再重新打开；
-- 换其他浏览器。（例如：[Edge](https://www.microsoft.com/en-us/edge/download)，[Via](https://viayoo.com/zh-cn/)等）
+- 换其他浏览器。（推荐：[Edge](https://dl.chunyueyun.yilx.cc/%E5%9B%BD%E5%86%85%E4%B8%80%E5%8F%B7%E7%BA%BF%E8%B7%AF%EF%BC%88%E7%94%B5%E4%BF%A1%EF%BC%89/%E8%BD%AF%E4%BB%B6%20Software/Microsoft%20Edge)，[Via](https://viayoo.com/zh-cn/)等）
 
 ### iOS 相关
 
@@ -64,7 +64,7 @@ title:  疑问解答
 
 ### 设备支持
 
-本站仅收录 Android （安卓）游戏（桌面端不计）。
+本站仅收录 Android （安卓）游戏（桌面端仅限`Windows`）。
 
 Harmony OS（鸿蒙）2.0 和部分 Android 系统（如 MIUI 等）可能无法正常游玩一部分游戏，请自行进行测试。
 
@@ -76,7 +76,12 @@ Harmony OS（鸿蒙）2.0 和部分 Android 系统（如 MIUI 等）可能无法
 
 请查看以下教程：
 
-- <b>建议优先尝试使用[MT管理器](https://mt2.cn)安装</b>
+:::tip 提示
+
+**（安卓）建议优先尝试使用[MT管理器](https://mt2.cn)安装**
+
+:::
+
 - [标准版安装教程](https://www.bilibili.com/video/BV1GT4y1Q7x7/)，一般按照此方式即可成功安装 xapk；
 - 如果通过上面的方式安装失败（如 MIUI），请查看[MIUI 等深度定制 ROM 安装教程](https://www.bilibili.com/video/BV1jR4y157WL/)。
 
@@ -88,7 +93,7 @@ Harmony OS（鸿蒙）2.0 和部分 Android 系统（如 MIUI 等）可能无法
 
 ### 游戏怎么玩
 
-自己找攻略啊 kora！
+**~~自己找攻略啊 kora！~~**
 
 ### 数据下载问题
 
