@@ -12,7 +12,7 @@ title:  疑问解答
 
 - 长按复制下载链接，并将下载链接粘贴到浏览器地址栏或其他下载工具打开；
 - 清除浏览器缓存，强制关闭浏览器再重新打开；
-- 换其他浏览器。（推荐：[Edge](https://dl.chunyueyun.yilx.cc/%E5%9B%BD%E5%86%85%E4%B8%80%E5%8F%B7%E7%BA%BF%E8%B7%AF%EF%BC%88%E7%94%B5%E4%BF%A1%EF%BC%89/%E8%BD%AF%E4%BB%B6%20Software/Microsoft%20Edge)，[Via](https://viayoo.com/zh-cn/)等）
+- 换其他浏览器。（推荐：[Edge](https://dl.chunyueyun.yilx.cc/软件%20Software/电脑%20PC/Microsoft%20Edge)，[Via](https://viayoo.com/zh-cn/)等）
 
 ### iOS 相关
 
