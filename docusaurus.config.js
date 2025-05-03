@@ -20,17 +20,21 @@ const config = {
     organizationName: 'DreamRain8',
     projectName: 'PuremoonDLStation',
     stylesheets: [
-     {
-       href: '/css/loading.css',
-       type: 'text/css',
-     },
-   ],
-   scripts: [
-     {
-       src: '/js/loading.js',
-       defer: true,
-     },
-   ],
+        {
+            href: 'css/loading.css',
+            type: 'text/css',
+        },
+    ],
+    scripts: [
+        {
+            src: 'js/loading.js',
+            defer: true,
+        },
+        {
+            src: 'https://upcdn.b0.upaiyun.com/libs/jquery/jquery-2.0.2.min.js',
+            defer: true,
+        }
+    ],
     plugins: [
         [
             '@easyops-cn/docusaurus-search-local',
@@ -66,12 +70,12 @@ const config = {
                 pwaHead: [{
                         tagName: 'link',
                         rel: 'icon',
-                        href: '/img/pwa/icon-192x192.png',
+                        href: 'img/pwa/icon-192x192.png',
                     },
                     {
                         tagName: 'link',
                         rel: 'manifest',
-                        href: '/manifest.json',
+                        href: 'manifest.json',
                     },
                     {
                         tagName: 'meta',
@@ -91,18 +95,18 @@ const config = {
                     {
                         tagName: 'link',
                         rel: 'apple-touch-icon',
-                        href: '/img/pwa/icon-192x192.png',
+                        href: 'img/pwa/icon-192x192.png',
                     },
                     {
                         tagName: 'link',
                         rel: 'mask-icon',
-                        href: '/img/puremoon.svg',
+                        href: 'img/puremoon.svg',
                         color: '#8e4bbc',
                     },
                     {
                         tagName: 'meta',
                         name: 'msapplication-TileImage',
-                        content: '/img/pwa/icon-192x192.png',
+                        content: 'img/pwa/icon-192x192.png',
                     },
                     {
                         tagName: 'meta',
@@ -187,14 +191,14 @@ const config = {
                     label: '游戏下载',
                 },
                 {
-                    to: '/blog',
+                    to: 'blog',
                     label: '站点博客',
                     position: 'left'
                 },
                 // right
                 {
                     label: '更新日志',
-                    to: '/updatelog/main',
+                    to: 'updatelog/main',
                     position: 'right',
                 },
                 {
@@ -269,7 +273,7 @@ const config = {
                     title: '社群',
                     items: [{
                             label: '站点博客',
-                            to: '/blog',
+                            to: 'blog',
                         },
                         {
                             label: 'GitHub Repo',
@@ -308,7 +312,7 @@ const config = {
             logo: {
                 alt: 'Puremoon Network Logo',
                 src: 'img/team.png',
-                href: '/info/project',
+                href: 'info/project',
             },
             copyright: `
             <p><small>
