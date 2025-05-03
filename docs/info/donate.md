@@ -58,13 +58,14 @@ If you find my work valuable, and would like to encourage the development of the
 
 | 运营商/机房   | 所处地区 | 用途          | 开销（人民币/月） |
 | ------------- | -------- | ------------- | ----------------- |
-| Amazon AWS    | 中国香港  | 主站前后端    | 40                |
-| Cloud Innovation | 日本东京 | 下载节点    | 35                   |
-| 阿里云三网BGP  | 中国     | 下载节点      | 55                |
-| 电信高速专线   | 中国     | 备用节点      | 皮梦：一个月80！    |
-| 联通高速专线   | 中国     | 备用节点      | 皮梦：一个月40！    |
-| CERA Networks | 美国     | 备用节点      | 30                |
-| Cloudflare    | 全球     | CDN          | 0                |
+| Amazon AWS    | 中国香港  | 主站前后端    | 40            |
+| 西部数码    | 中国双线  | 本站访问    | 68            |
+| Cloud Innovation | 日本东京 | 下载节点    | 35               |
+| 阿里云三网BGP  | 中国     | 下载节点      | 55            |
+| 电信高速专线   | 中国     | 备用节点      | 40    |
+| 联通高速专线   | 中国     | 备用节点      | 30    |
+| CERA Networks | 美国     | 备用节点      | 30           |
+| Cloudflare    | 全球     | CDN          | 免费/Free/0      |
 
 #### 域名
 
@@ -73,6 +74,7 @@ If you find my work valuable, and would like to encourage the development of the
 | pmnet.top    | 站点访问域名       | 30                |
 | puremoon.net | 站点访问域名       | 115                |
 | pmnet.uk     | 站点访问域名       | 35                |
+| pmnet.work   | 站点访问域名       | 38           |
 
 #### 其他开支
 
