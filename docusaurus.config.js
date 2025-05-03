@@ -14,27 +14,13 @@ const config = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     i18n: {
-        defaultLocale: 'zh-Hans',
-        locales: ['zh-Hans'],
+        defaultLocale: 'zh-CN',
+        locales: ['zh-CN'],
     },
     organizationName: 'DreamRain8',
     projectName: 'PuremoonDLStation',
-    stylesheets: [
-        {
-            href: 'css/loading.css',
-            type: 'text/css',
-        },
-    ],
-    scripts: [
-        {
-            src: 'js/loading.js',
-            defer: true,
-        },
-        {
-            src: 'https://upcdn.b0.upaiyun.com/libs/jquery/jquery-2.0.2.min.js',
-            defer: true,
-        }
-    ],
+    stylesheets: [],
+    scripts: [],
     plugins: [
         [
             '@easyops-cn/docusaurus-search-local',
@@ -146,7 +132,6 @@ const config = {
                 theme: {
                     customCss: [
                         require.resolve('./src/css/custom.css'),
-                        require.resolve('./src/css/loading.css'), // 同时在这里注册
                     ],
                 },
                 sitemap: {

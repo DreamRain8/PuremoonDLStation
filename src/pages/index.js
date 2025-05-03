@@ -32,11 +32,11 @@ export default function Home() {
       description="Puremoon - To be a simple DownloadStation.">
         <div>
         <div className={styles.HomepageTips}>
-          关注Puremoon音游下载站 的
-           <Link to="https://space.bilibili.com/673409542">
-           哔哩哔哩频道
+          关注 Puremoon音游下载站 的&nbsp;
+          <Link to="https://space.bilibili.com/673409542">
+            哔哩哔哩官方账号
           </Link>
-        ，直接向Puremoon提出你的意见。
+            &nbsp;，直接向Puremoon提出你的意见。
           </div>
         </div>
       <HomepageHeader />
