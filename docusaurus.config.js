@@ -305,7 +305,7 @@ const config = {
             本站与 lowiro limited、SEGA Corporation 及 Pigeon Games 无任何关联与往来。
             </small><p>
             <br>
-            <a href="//beian.miit.gov.cn/>粤ICP备2025410684号</a>
+            <a href="//beian.miit.gov.cn/">粤ICP备2025410684号</a>
             `,
         },
         prism: {
