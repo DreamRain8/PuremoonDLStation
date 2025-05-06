@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Puremoon下载站',
-    tagline: '「简单的移动端音游下载站」',
-    url: 'https://pmnet.top',
+    title: 'Puremoon',
+    tagline: '「简单的移动端音游资源集」',
+    url: 'https://pmnet.work',
     baseUrl: '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
         defaultLocale: 'zh-CN',
         locales: ['zh-CN'],
     },
-    organizationName: 'DreamRain8',
+    organizationName: 'Pimeng',
     projectName: 'PuremoonDLStation',
     stylesheets: [],
     scripts: [],
@@ -285,7 +285,7 @@ const config = {
                     title: '友情链接',
                     items: [{
                             label: 'Konmai 音游下载站',
-                            href: 'https://konmai.cn',
+                            href: 'https://616.sb',
                         },
                         {
                             label: '云露露Bot 一款游戏信息查询机器人',
@@ -303,7 +303,10 @@ const config = {
             <p><small>
             Copyright © 2024 - ${new Date().getFullYear()} Puremoon Network. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
             本站与 lowiro limited、SEGA Corporation 及 Pigeon Games 无任何关联与往来。
-            </small><p>`,
+            </small><p>
+            <br>
+            <a href="//beian.miit.gov.cn/>粤ICP备2025410684号</a>
+            `,
         },
         prism: {
             theme: lightCodeTheme,
