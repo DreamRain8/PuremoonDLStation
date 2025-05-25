@@ -289,7 +289,7 @@ const config = {
                         },
                         {
                             label: '云露露Bot 一款游戏信息查询机器人',
-                            href: 'https://ylldoc.sdbit.net.cn',
+                            href: 'https://yll.sdbit.net.cn',
                         },
                     ],
                 },
