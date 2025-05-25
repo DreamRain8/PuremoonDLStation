@@ -304,8 +304,6 @@ const config = {
             Copyright © 2024 - ${new Date().getFullYear()} Puremoon Network. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
             本站与 lowiro limited、SEGA Corporation 及 Pigeon Games 无任何关联与往来。
             </small><p>
-            <br>
-            <a href="//beian.miit.gov.cn/">粤ICP备2025410684号</a>
             `,
         },
         prism: {
