@@ -17,7 +17,7 @@ const config = {
         defaultLocale: 'zh-CN',
         locales: ['zh-CN'],
     },
-    organizationName: 'Pimeng',
+    organizationName: 'DreamRain',
     projectName: 'PuremoonDLStation',
     stylesheets: [],
     scripts: [],
@@ -239,7 +239,7 @@ const config = {
                     title: '站点相关',
                     items: [{
                             label: '服务器状态',
-                            href: 'https://stat.lowi.ro',
+                            href: 'https://uptime.pmnet.work/status/puremoon',
                         },
                         {
                             label: '更新日志',
@@ -277,7 +277,7 @@ const config = {
                             href: 'https://yilx.net/',
                         },{
                             label: '皮梦',
-                            href: 'https://www.pimeng.icu/',
+                            href: 'https://pmya.xyz/',
                         }
                     ],
                 },
@@ -303,6 +303,8 @@ const config = {
             <p><small>
             Copyright © 2024 - ${new Date().getFullYear()} Puremoon Network. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
             本站与 lowiro limited、SEGA Corporation 及 Pigeon Games 无任何关联与往来。
+            </small><small>
+            <a href="//beian.miit.gov.cn/">粤ICP备2025410684号-1</a> 
             </small><p>
             `,
         },
