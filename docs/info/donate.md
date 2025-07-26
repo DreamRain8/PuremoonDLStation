@@ -3,7 +3,9 @@ id: donate
 title:  捐赠支持
 ---
 
-If you find my work valuable, and would like to encourage the development of the site, you can do it by sponsor this project.
+🎁 If you find my work valuable, and would like to encourage the development of the site, you can do it by sponsor this project.
+
+🎁 如果您觉得本站的内容对您有所帮助，也愿意支持站点的持续发展，欢迎通过赞助的方式来支持本项目。
 
 :::caution 捐赠注意事项
 
@@ -17,7 +19,7 @@ If you find my work valuable, and would like to encourage the development of the
 
 ## 直接捐赠
 
-### 直接向我付款
+### 直接向梦雨付款
 
 <details>
 <summary><b>微信</b></summary>
@@ -37,9 +39,9 @@ If you find my work valuable, and would like to encourage the development of the
 
 #### 爱发电（暂未开通）
 
-支持微信、支付宝、PayPal、银行卡。
+#### 微信、支付宝、PayPal、银行卡、虚拟币等
 
-<p><a href="https://example.com" class="buttonDownload">敬请期待</a></p>
+<p><a href="https://qm.qq.com/cgi-bin/qm/qr?k=hsFXJNxXDUkOKvBdb_cQWN0FoPJI2mvZ&s=1" class="buttonDownload">联系皮梦</a></p>
 
 -----
 
@@ -59,9 +61,9 @@ If you find my work valuable, and would like to encourage the development of the
 | 运营商/机房   | 所处地区 | 用途          | 开销（人民币/月） |
 | ------------- | -------- | ------------- | ----------------- |
 | Amazon AWS    | 中国香港  | 主站前后端    | 40         |
-| 西部数码    | 双线  | 本站访问    | 68        |
+| 西部数码    | 国内双线机房 | 本站访问    | 68        |
 | Cloud Innovation | 日本东京 | 下载节点    | 35          |
-| 电信高速专线   | 中国     | 备用节点      | 40    |
+| 电信高速专线   | 中国电信     | 主下载节点      | 40    |
 
 #### 域名
 
@@ -76,7 +78,6 @@ If you find my work valuable, and would like to encourage the development of the
 
 | 名称          | 用途         | 开销（人民币/年） |
 | ------------- | ------------ | ----------------- |
-| 腾讯Edgeone   |    网站加速/防御     |      1200        |
-|               |              |                   |
-|               |              |                   |
+| 腾讯Edgeone | 网站加速/防御  |  800~1200不等  |
+
 

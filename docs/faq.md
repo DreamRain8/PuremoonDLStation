@@ -35,13 +35,17 @@ title:  疑问解答
    
 如果下载站上的游戏安装包已经成为旧版，请您直接私信我们的哔哩哔哩官方账号[Puremoon音游下载站](https://space.bilibili.com/673409542) 或在下面的置顶动态评论。
    
-有关电信高速线路也可联系皮梦[1470458485](https://qm.qq.com/cgi-bin/qm/qr?k=hsFXJNxXDUkOKvBdb_cQWN0FoPJI2mvZ&s=1)。~~皮梦：如果我还没睡的话（）~~
+建议优先联系皮梦[1470458485](https://qm.qq.com/cgi-bin/qm/qr?k=hsFXJNxXDUkOKvBdb_cQWN0FoPJI2mvZ&s=1)。~~因为梦雨实在是太懒了（~~
 
 ### 游戏收录
 
 目前我们会按照大多数玩家的需求来收录音游。但**不会收录太多游戏**，这样对本站的运营和您查找游戏都会造成不便。
 
 基本的收录规则是：**游戏本体免费**（Free-to-play）、**具备 Android 平台端**的**官方发布版本**。详情请见[收录标准](policies/inclusion)。
+
+如果想要提交游戏收录，不局限于音游，欢迎[在此投稿](https://f.wps.cn/g/jLQSJi0Z/)，我们会不定期上去查看。
+
+[这里](https://kdocs.cn/l/chn2fhPhiK36)则是审核区，投稿了的一般会出现在这里，然后如果审核通过将会上传到下载站。
 
 ### 捐赠支持
 
