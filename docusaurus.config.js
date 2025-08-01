@@ -14,8 +14,8 @@ const config = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     i18n: {
-        defaultLocale: 'zh-CN',
-        locales: ['zh-CN'],
+        defaultLocale: 'en-US',
+        locales: ['en-US'],
     },
     organizationName: 'DreamRain',
     projectName: 'PuremoonDLStation',
