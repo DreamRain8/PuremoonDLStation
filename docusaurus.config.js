@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Puremoon',
-    tagline: '「简单的移动端音游资源集」',
-    url: 'https://pmnet.work',
+    title: 'Puremoon Download Station',
+    tagline: '「Simple Rhythm Game Resource Collection」',
+    url: 'https://www.puremoon.net',
     baseUrl: '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',

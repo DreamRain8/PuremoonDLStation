@@ -3,38 +3,38 @@ import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [{
-        title: '下载安装方便快捷',
+        title: 'Easy and fast to download and install',
         description: (
         <>
-            Puremoon下载站提供的游戏点击即可下载，方便又简单。
-            同时，Puremoon 部署了数个遍布于全球各地的节点，可以为您提供优质的下载服务。
+            The games offered by the Puremoon download station can be downloaded with a single click, which is convenient and easy.
+            At the same time, Puremoon has deployed several nodes around the world, which can provide you with high-quality download services.
         </>
         ),
     },
     {
-        title: '不为盈利的公益项目',
+        title: 'Charity projects',
         description: (
         <>
-            Puremoon下载站 是<b>公益</b>的兴趣项目，且不以盈利为目的。
-            为音游玩家提供更多且方便的资源分享，是 Puremoon 的目标与信条。
+            Puremoon Download Station is a <b>public welfare</b> project of interest and is not intended for profit.
+            Providing more and convenient resource sharing for rhythm game players is Puremoon's goal and creed.
         </>
         ),
     },
     {
-        title: '大家一起实现的故事',
+        title: 'A project that everyone realized together',
         description: (
         <>
-            Puremoon下载站 的健康发展离不开各位玩家的大力支持。
-            我们希望通过 Puremoon下载站 这个项目，为部分不方便下载游戏的玩家提供一定的便利，最终使玩家社群整体受益。
+            The healthy development of Puremoon Download Station is inseparable from the strong support of all players.
+            We hope that through this project, we can provide some convenience for some players who are inconvenient to download resources, and benefit the whole player community.
         </>
         ),
     },
     {
-        title: '不收集任何个人数据',
+        title: 'No personal data is collected',
         description: (
         <>
-            Puremoon的开发者一直坚信，纯净安全的互联网环境需要我们共同维护。
-            因此，Puremoon坚决反对某些公司擅自获取用户信息并以此盈利的无良行为。Puremoon以前没有，以后也不会以任何方式收集用户的隐私信息。
+            Puremoon Network has always believed that a pure and secure internet environment requires our collective efforts to maintain.
+            Therefore, Puremoon firmly opposes the unscrupulous practices of certain companies that arbitrarily obtain user information and profit from it. Puremoon has not, and will not, collect users' private information in any way.
         </>
         ),
     },

@@ -16,7 +16,7 @@ function HomepageHeader() {
           <Link
             className="button button--primary button--lg"
             to="games">
-            下载游戏
+            Go Download
           </Link>
         </div>
       </div>
@@ -28,15 +28,15 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`首页`}
+      title={`Home`}
       description="Puremoon - To be a simple DownloadStation.">
         <div>
         <div className={styles.HomepageTips}>
-          关注 Puremoon音游下载站 的&nbsp;
-          <Link to="https://space.bilibili.com/673409542">
-            哔哩哔哩官方账号
-          </Link>
-            &nbsp;，直接向Puremoon提出你的意见。
+          Follow Puremoon&nbsp;
+           <Link to="https://space.bilibili.com/673409542">
+            Bilibili official account
+           </Link>
+            &nbsp;,Submit your opinion directly to Puremoon.
           </div>
         </div>
       <HomepageHeader />
