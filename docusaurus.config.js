@@ -117,8 +117,8 @@ const config = {
                 },
                 blog: {
                     path: 'blog',
-                    blogTitle: 'Puremoon 博客',
-                    blogSidebarTitle: '所有文章',
+                    blogTitle: 'Puremoon Blog',
+                    blogSidebarTitle: 'All articles',
                     blogSidebarCount: 'ALL',
                     showReadingTime: true,
                     postsPerPage: 5,
@@ -162,7 +162,7 @@ const config = {
             },
         },
         navbar: {
-            title: 'Puremoon下载站',
+            title: 'Puremoon Download Station',
             logo: {
                 alt: 'Puremoon Logo',
                 src: 'img/puremoon.webp',
@@ -173,21 +173,21 @@ const config = {
                     type: 'doc',
                     docId: 'games',
                     position: 'left',
-                    label: '游戏下载',
+                    label: 'Game download',
                 },
                 {
                     to: 'blog',
-                    label: '站点博客',
+                    label: 'Blog',
                     position: 'left'
                 },
                 // right
                 {
-                    label: '更新日志',
+                    label: 'Changelog',
                     to: 'updatelog/main',
                     position: 'right',
                 },
                 {
-                    label: '捐赠与支持',
+                    label: 'Donate & Support Us',
                     to: 'info/donate',
                     position: 'right',
                 },
@@ -208,45 +208,45 @@ const config = {
         footer: {
             style: 'dark',
             links: [{
-                    title: '法律信息',
+                    title: 'Legal information',
                     items: [{
-                            label: '使用条款',
+                            label: 'Terms of Use',
                             to: 'policies/tos',
                         },
                         {
-                            label: '隐私政策',
+                            label: 'Privacy Policy',
                             to: 'policies/privacy',
                         },
                         {
-                            label: '未成年人保护指引',
+                            label: 'Protection of minors',
                             to: 'policies/minor',
                         },
                         {
-                            label: '站点内容转载规范',
+                            label: 'Content repost specifications',
                             to: 'policies/repost',
                         },
                         {
-                            label: '站点游戏收录标准',
+                            label: 'Resource inclusion criteria',
                             to: 'policies/inclusion',
                         },
                         {
-                            label: '版权与许可',
+                            label: 'Copyright & License',
                             to: 'policies/licenses',
                         },
                     ]
                 },
                 {
-                    title: '站点相关',
+                    title: 'Site related',
                     items: [{
-                            label: '服务器状态',
+                            label: 'Service Status',
                             href: 'https://uptime.pmnet.work/status/puremoon',
                         },
                         {
-                            label: '更新日志',
+                            label: 'Changelog',
                             to: 'changelog/main',
                         },
                         {
-                            label: '使用帮助',
+                            label: 'Help in use',
                             to: 'faq',
                         }, {
                             label: '捐赠支持',
@@ -255,9 +255,9 @@ const config = {
                     ],
                 },
                 {
-                    title: '社群',
+                    title: 'Community',
                     items: [{
-                            label: '站点博客',
+                            label: 'Blog',
                             to: 'blog',
                         },
                         {
@@ -265,13 +265,13 @@ const config = {
                             href: 'https://github.com/DreamRain8/PuremoonDLStation',
                         },
                         {
-                            label: '哔哩哔哩',
+                            label: 'BiliBili',
                             href: 'https://space.bilibili.com/673409542',
                         },
                     ],
                 },
                 {
-                    title: '赞助商',
+                    title: 'Sponsers',
                     items: [{
                             label: '伊linxiyy',
                             href: 'https://yilx.net/',
@@ -282,7 +282,7 @@ const config = {
                     ],
                 },
                 {
-                    title: '友情链接',
+                    title: 'Links',
                     items: [{
                             label: 'Konmai 音游下载站',
                             href: 'https://616.sb',
@@ -302,7 +302,7 @@ const config = {
             copyright: `
             <p><small>
             Copyright © 2024 - ${new Date().getFullYear()} Puremoon Network. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
-            本站与 lowiro limited、SEGA Corporation 及 Pigeon Games 无任何关联与往来。
+            We are not affiliated or dealing with lowiro limited, SEGA Corporation or Pigeon Games.
             </small><small>
             <a href="//beian.miit.gov.cn/">粤ICP备2025410684号-1</a> 
             </small><p>
