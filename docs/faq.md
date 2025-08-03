@@ -94,7 +94,7 @@ If you are unable to top-up via Google Play, please consider using other top-up 
 
 ### How to Play the Game
 
-**~~Find your own guide, kora! ~~**
+~~**Find your own guide, kora! **~~
 
 ### Data Download Issues
 
@@ -104,5 +104,5 @@ If in-game data downloads are too slow, consider using a VPN or other internet-c
 
 ## Contact Us
 
-If your question isn't answered here, or you have other suggestions or feedback, please visit [Contact Us](info/about#Contact Us).
+If your question isn't answered here, or you have other suggestions or feedback, please visit [Contact Us](info/about#ContactUs).
 
