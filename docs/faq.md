@@ -1,111 +1,108 @@
 ---
 id: faq
-title:  疑问解答
+title:  Q&A
 ---
-此处回答些常见问题。
+Here are some frequently asked questions.
 
-## 站点相关
+## Site-related
 
-### Chrome 下载页闪退
+### Chrome download page crashes
 
-手机版 Chrome 有时候可能会遇到点击打开下载页后，页面直接关闭，文件无法下载的情况。解决方法有三，可任选其一：
+Chrome for mobile may sometimes experience a situation where you click to open the download page, then the page closes and the file cannot be downloaded. There are three solutions, you can choose one of them:
 
-- 长按复制下载链接，并将下载链接粘贴到浏览器地址栏或其他下载工具打开；
-- 清除浏览器缓存，强制关闭浏览器再重新打开；
-- 换其他浏览器。（推荐：[Edge](https://dl.chunyueyun.yilx.cc/软件%20Software/电脑%20PC/Microsoft%20Edge)，[Via](https://viayoo.com/zh-cn/)等）
+- Long press to copy the download link and paste the download link into the browser address bar or other download tool to open it;
+- Clear the browser cache, force close the browser and reopen it;
+- Switch to a different browser. (Recommended: [Edge](https://dl.chunyueyun.yilx.cc/软件%20Software/电脑%20PC/Microsoft%20Edge), [Via](https://viayoo.com/zh-cn/), etc.)
 
-### iOS 相关
+### iOS-related
 
-如果您是 iOS 用户，请在 App Store 下载您想下载的游戏。**本站不会提供任何 iOS 端游戏下载。**
+If you are an iOS user, download the game you want to download on the App Store. **We will not be offering any iOS game downloads at this time. **
 
-部分游戏在部分地区的 App Store 不可用，需要切换 App Store 所在地区；有关如何注册 App Store 其他地区账号并进入下载游戏，[请参考本教程](../blog/2025/03/19/appleid)。
+Some games are not available on the App Store in some regions, so you need to switch the region where the App Store is located. For information on how to sign up for an account in other regions of the App Store and download the game, [please refer to this tutorial](../blog/2025/03/19/appleid).
 
-### 历史版本和愚人节版本
+### Historical Versions and April Fool's Day Versions
 
-本站刊载的所有「愚人节/其他版本」资源，都来源于官方曾经发布过的历史版本，而**这些版本和最新版本的游戏无法共存**。
+All "April Fool's Day/Other Versions" resources on our site are derived from official historical versions, and **these versions cannot coexist with the latest version of the game**.
 
-在准备游玩这些版本之前，您应该事先做好游戏存档备份，然后选择以下其中一种方式：①卸载新版本再安装该版本；②直接在其他设备上游玩。
+Before preparing to play these versions, you should make a backup of your game save and choose one of the following methods:①Uninstall the new version and install it;②Play on other devices.
 
-我们**并不推荐自行修改安装包来实现和最新版本共存**。若您因为修改安装包导致账户被游戏公司封禁，纯月 Puremoon 概不负责。
+We **do not recommend modifying the installation package to coexist with the latest version**.If your account is banned by the game company due to modifying the installation package, Puremoon will not be responsible.
 
-### 游戏版本更新
+### Game Version Updates
 
-因为我们不可能时时刻刻盯着游戏更新，~~有时候站长还容易懒癌发作，还有些游戏喜欢大清晨更新，不会真有年轻人五点能起床吧~~，所以偶尔会出现游戏已更新，但下载站首页还是旧版链接的情况。   
-~~皮梦：实际上，我半夜会看看有没有游戏更新（）~~
+Because we can't always keep up with game updates,~~sometimes webmasters get lazy, and some games like to update early in the morning. I don't think there are really young people who can get up at 5 a.m.~~, so sometimes the game has been updated, but the download station still shows the old version link.
+~~Pimeng: Actually, I occasionally check for game updates in the middle of the night ()~~
    
-如果下载站上的游戏安装包已经成为旧版，请您直接私信我们的哔哩哔哩官方账号[Puremoon音游下载站](https://space.bilibili.com/673409542) 或在下面的置顶动态评论。
-   
-建议优先联系皮梦[1470458485](https://qm.qq.com/cgi-bin/qm/qr?k=hsFXJNxXDUkOKvBdb_cQWN0FoPJI2mvZ&s=1)。~~因为梦雨实在是太懒了（~~
+If the game installation package on the download station has become an old version, please send a private message to our official Bilibili account [Puremoon Rhythm Game Download Station](https://space.bilibili.com/673409542).
 
-### 游戏收录
+### Resource Inclusion
 
-目前我们会按照大多数玩家的需求来收录音游。但**不会收录太多游戏**，这样对本站的运营和您查找游戏都会造成不便。
+Currently, we're including resources based on the needs of the majority of players. However, **we will not be including too many resources for now**, as this would cause inconvenience to our site operations and your ability to find resources.
 
-基本的收录规则是：**游戏本体免费**（Free-to-play）、**具备 Android 平台端**的**官方发布版本**。详情请见[收录标准](policies/inclusion)。
+The basic inclusion criteria are: **the game package must be free** (Free-to-play) and **have an official release for the Android platform**. For more details, see [Inclusion Criteria](policies/inclusion).
 
-如果想要提交游戏收录，不局限于音游，欢迎[在此投稿](https://f.wps.cn/g/jLQSJi0Z/)，我们会不定期上去查看。
+If you'd like to submit resources for inclusion, not limited to rhythm games, please [submit your opinion here](https://f.wps.cn/g/jLQSJi0Z/). We'll check back periodically.
 
-[这里](https://kdocs.cn/l/chn2fhPhiK36)则是审核区，投稿了的一般会出现在这里，然后如果审核通过将会上传到下载站。
+[Here](https://kdocs.cn/l/chn2fhPhiK36) is the review area. Submitted opinions will generally appear here, and if approved, they will be uploaded to the download station.
 
-### 捐赠支持
+### Donate Us
 
-请访问[捐赠页](info/donate)。
+Please visit the [donate page](info/donate).
 
-## 下载相关
+## Download-related
 
-### 无法下载/下载速度慢
+### Download Failure/Slow Download Speed
 
-如果您无法下载或觉得下载速度较慢，可以尝试**取消任务并重新点击下载链接**，或者**更换到备用下载节点**。
+If you're unable to download or notice a slow download speed, you can try **canceling the task and clicking the download link again**, or **switching to an alternate download node**.
 
-同时，可以使用一些其他的下载工具进行下载。（例如：IDM，迅雷等）
+At the same time, you can use other download tools (e.g., IDM, Xunlei, etc.).
 
-### 下载后无法打开安装包
+### Unable to open the installation package after downloading
 
-可能是浏览器的 bug ，请在您手机的文件管理中打开安装包。
+This may be a browser bug. Please open the installation package in your phone's file manager.
 
+## Game play-related
 
-## 游戏游玩相关
+### Device support
 
-### 设备支持
+Our site only includes Android games (desktop version Windows only).
 
-本站仅收录 Android （安卓）游戏（桌面端仅限`Windows`）。
+Harmony OS (HUAWEI devices) and some Android custom OS (such as HyperOS) may not be able to play some games normally, so please test it yourself.
 
-Harmony OS（鸿蒙）2.0 和部分 Android 系统（如 MIUI 等）可能无法正常游玩一部分游戏，请自行进行测试。
+Unless otherwise specified, the installation packages included in this site by default are preferentially compatible with the 'arm64-v8a' architecture. Some older devices manufactured before 2018 may not be able to install such installation packages.
 
-如无特殊说明，本站默认收录的安装包优先兼容 `arm64-v8a` 架构。部分 2018 年前的生产的旧设备可能无法安装此类安装包。
+It's best to have your device's Android version not lower than 6.0, otherwise most games may not work properly.
 
-您的设备的 Android 版本最好不要低于 6.0，否则大部分游戏可能无法正常运行。
+### Installation in xapk format
 
-### xapk 格式的安装
+Check out the tutorials below:
 
-请查看以下教程：
+:::tip
 
-:::tip 提示
-
-**（安卓）建议优先尝试使用[MT管理器](https://mt2.cn)安装**
+**Android recommends trying to install with [MT Manager](https://mt2.cn) first**
 
 :::
 
-- [标准版安装教程](https://www.bilibili.com/video/BV1GT4y1Q7x7/)，一般按照此方式即可成功安装 xapk；
-- 如果通过上面的方式安装失败（如 MIUI），请查看[MIUI 等深度定制 ROM 安装教程](https://www.bilibili.com/video/BV1jR4y157WL/)。
+- [Standard Version Installation Tutorial] (https://www.bilibili.com/video/BV1GT4y1Q7x7/), generally follow this method to successfully install xapk;
+- If the installation fails (e.g., HyperOS) through the above method, please check out [Tutorial for installing in-depth customized ROMs such as HyperOS] (https://www.bilibili.com/video/BV1jR4y157WL/).
 
-### 充值
+### Top-up
 
-对于有游戏内购的游戏，除非游戏官方提供了其他充值方式（比如官网充值），否则本站提供的游戏大多需要使用 Google Play 充值。
+For games with in-game purchases, most require top-up via Google Play, unless the game officially provides other top-up methods (such as top-up through the official website).
 
-如果您无法使用 Play 充值，请考虑使用其他方法进行充值（比如代充）。
+If you are unable to top-up via Google Play, please consider using other top-up methods (such as top-up through a proxy).
 
-### 游戏怎么玩
+### How to Play the Game
 
-**~~自己找攻略啊 kora！~~**
+**~~Find your own guide, kora! ~~**
 
-### 数据下载问题
+### Data Download Issues
 
-卡牌类音游一般需要在游戏内下载数据，部分经典音游也需要下载谱面等资源。
+Card-based rhythm games generally require in-game data downloads, and some classic rhythm games also require downloading resources like music charts.
 
-如果游戏内数据下载过慢，则您需要考虑是否需要挂加速器等辅助上网工具。
+If in-game data downloads are too slow, consider using a VPN or other internet-connected tool.
 
-## 联络我们
+## Contact Us
 
-如果您的问题没有得到解答，或者您有其他的建议和反馈，请前往[联络方式](info/about#联系方式)。
+If your question isn't answered here, or you have other suggestions or feedback, please visit [Contact Us](info/about#Contact Us).
 
