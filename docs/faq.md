@@ -69,7 +69,7 @@ Our site only includes Android games (desktop version Windows only).
 
 Harmony OS (HUAWEI devices) and some Android custom OS (such as HyperOS) may not be able to play some games normally, so please test it yourself.
 
-Unless otherwise specified, the installation packages included in this site by default are preferentially compatible with the 'arm64-v8a' architecture. Some older devices manufactured before 2018 may not be able to install such installation packages.
+Unless otherwise specified, the installation packages included in our site by default are preferentially compatible with the 'arm64-v8a' architecture. Some older devices manufactured before 2018 may not be able to install such installation packages.
 
 It's best to have your device's Android version not lower than 6.0, otherwise most games may not work properly.
 
@@ -79,12 +79,12 @@ Check out the tutorials below:
 
 :::tip
 
-**Android recommends trying to install with [MT Manager](https://mt2.cn) first**
+**We recommend trying to install with [MT Manager](https://mt2.cn) first**
 
 :::
 
-- [Standard Version Installation Tutorial] (https://www.bilibili.com/video/BV1GT4y1Q7x7/), generally follow this method to successfully install xapk;
-- If the installation fails (e.g., HyperOS) through the above method, please check out [Tutorial for installing in-depth customized ROMs such as HyperOS] (https://www.bilibili.com/video/BV1jR4y157WL/).
+- [Standard Version Installation Tutorial](https://www.bilibili.com/video/BV1GT4y1Q7x7/), generally follow this method to successfully install xapk;
+- If the installation fails (e.g., HyperOS) through the above method, please check out [Tutorial for installing in-depth customized ROMs such as HyperOS](https://www.bilibili.com/video/BV1jR4y157WL/).
 
 ### Top-up
 
