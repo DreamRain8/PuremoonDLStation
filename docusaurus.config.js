@@ -173,7 +173,7 @@ const config = {
                     type: 'doc',
                     docId: 'games',
                     position: 'left',
-                    label: 'Game download',
+                    label: 'Resources',
                 },
                 {
                     to: 'blog',
