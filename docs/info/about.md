@@ -10,7 +10,7 @@ Puremoon Download Station is a simple **mobile-focused** music game download sit
 
 ## Informal Introduction by the Site Owner
 
-Hello, I'm Dream_Rain, the current owner of the Puremoon download site.
+Hello, I'm Dream_Rain, the current owner of the Puremoon Download Station.
 
 Puremoon Download Station is one that only provides downloads for some games so far, and maybe it will offer other things in the future.
 
