@@ -1,50 +1,52 @@
-# 游戏收录标准
+# Game Inclusion Standards
 
-对本站收录游戏和文档的标准进行一定程度的说明。
+Provides a certain degree of explanation regarding the standards for including games and documents on this site.
 
-## 游戏收录详情
+## Details of Game Inclusion
 
-1. 本站**只会**在[主站页面](/)收录以下类型的游戏：
+1. This site **will only** include the following types of games on the [main site page](/)：
 
-    - 符合普遍认知的「音乐游戏」类型的（「类音游」因为其争议性，不会进行收录）；
-    - 游戏内容不违反普遍法律法规，遵循公序良德的；
-    - 在部分地区获取资源存在一定程度困难的；
-    - 游戏本体长期免费的（即本体付费游戏不考虑在内，如 *Cytus 2*）；
-    - 游戏具备 Android 平台客户端的；
-    - 可从官网、Google Play、TapTap 或其他官方授权渠道获取的。
-2. 在符合上一条的基础上，本站**不会主动**在[主站页面](/)提供以下类型的游戏：
-   - 盗版、破解版、优化版、修改版客户端；
-   - 玩家私服使用的修改版客户端；
-   - 自制谱使用的修改版客户端；
-   - 未经官方授权，修改了资源、签名等的客户端。
-3. 和之前的下载站前辈不同，本站并不会收录太多游戏，原因如下：
-    - 游戏过多可能会导致您查找时相对不便；
-    - 一定程度上影响页面的美观性；
-    - 对本站的资源（存储空间、带宽等）也是一种负担，进而增加运营成本；
-    - 如果您想找包含大多数音游的导航站，您更应该去 Google Play 和 App Store 查看，本站只是个下载站。
-    - ~~目前运营成本巨大，下载站无法承受~~
+    - Those of the type generally recognized as "music games" ( "music game-like" games will not be included due to their controversial nature )；
+    - Those whose content does not violate general laws and regulations and abides by public order and good morals；
+    - Those for which obtaining resources is somewhat difficult in some regions；
+    - Those whose main game is permanently free ( i.e., paid main games are not considered, such as *Cytus 2* )；
+    - Those that have an Android platform client；
+    - Those available from official websites, Google Play, TapTap, or other officially authorized channels.
 
-## 游戏收录特例
+2. On the basis of meeting the above conditions, this site **will not proactively** provide the following types of games on the [main site page](/)：
+   - Pirated, cracked, optimized, or modified clients；
+   - Modified clients used for private servers by players；
+   - Modified clients used for custom charts；
+   - Clients with modified resources, signatures, etc., without official authorization.
 
-如果您觉得你想收录的游戏，符合上面的基础收录标准第一条却不满足第二条，但是您有**无论如何也想收录的正当理由**，经我们同意后，我们将会在**其他页面**为您开通下载，**不影响主站页面的运营**。
+3. Unlike previous download site predecessors, this site will not include too many games for the following reasons：
+    - Too many games may make it relatively inconvenient for you to search；
+    - To a certain extent, it affects the aesthetics of the page；
+    - It also burdens the site's resources ( storage space, bandwidth, etc. ), thereby increasing operating costs；
+    - If you are looking for a navigation site containing most music games, you should check Google Play and the App Store instead; this site is just a download site.
+    - ~~Currently, the operating costs are huge, and the download site cannot afford it~~
 
-若您要申请此种游戏的上架，您**必须同意**以下条件：
+## Special Cases for Game Inclusion
 
-- 您需保证，您是该游戏的作者或修改者本人；作者以外人士的收录申请将不予以通过；
-- 您需提供该游戏相关的简介和详细说明，如您修改了何处的何种内容，以上内容是否对玩家有风险等；
-- 您需提供您的个人信息和常用社交账号；
-- 您需同意，一旦您的游戏在本站成功上传，您提交的社交账号会向社会大众公开；
-- 您需同意，若您违反以下条件，本站可直接不经您的同意，直接下架该游戏，并将您的信息进行严肃的公示：
-  - 您需保证，此游戏的内容不会违反当地的法律法规；
-  - 您需保证，此游戏不会侵犯其他玩家的任何权益；
-  - 您需保证，此游戏不会提供任何判定修改、变速、模拟点击、存档解锁等作弊操作；
-  - 您需保证，此游戏内部的元素没有任何侮辱性或不适宜传播的元素与词汇；
-  - 您需保证，此游戏除您声称的修改外没有植入任何其他程序和脚本；
-  - 您需保证，您愿意承担因上传此游戏所承担的任何风险。
+If you believe that the game you wish to include meets the first item of the basic inclusion standards above but does not meet the second, yet you have **valid reasons for wanting it included regardless**, with our approval, we will provide downloads for you on **other pages**, **without affecting the operation of the main site page**.
 
-若您不同意以上任何条件，本站**可以驳回您的一切请求**。
+If you wish to apply for the listing of such a game, you **must agree** to the following conditions：
 
-若您同意以上条件，您可以通过邮箱 [3859227514@qq.com](mailto:3859227514@qq.com) 联络我们，商讨上传事宜。
+- You must ensure that you are the author or modifier of the game yourself; inclusion applications from persons other than the author will not be approved；
+- You must provide a relevant introduction and detailed explanation of the game, such as what content you modified and where, whether the above content poses risks to players, etc.；
+- You must provide your personal information and commonly used social media accounts；
+- You must agree that once your game is successfully uploaded to this site, the social media accounts you submitted will be made public to the general public；
+- You must agree that if you violate the following conditions, this site may directly remove the game without your consent and publicly announce your information seriously：
+  - You must ensure that the content of this game does not violate local laws and regulations；
+  - You must ensure that this game will not infringe upon any rights and interests of other players；
+  - You must ensure that this game will not provide any cheating operations such as judgment modification, speed change, simulated clicks, archive unlocking, etc.；
+  - You must ensure that the elements within this game do not contain any insulting or inappropriate elements or words；
+  - You must ensure that this game does not contain any other programs or scripts implanted beyond the modifications you claim；
+  - You must ensure that you are willing to bear any risks arising from uploading this game.
+
+If you do not agree to any of the above conditions, this site **may reject all your requests**.
+
+If you agree to the above conditions, you can contact us via email at [3859227514@qq.com](mailto:3859227514@qq.com) to discuss uploading matters.
 
 
 
