@@ -1,114 +1,125 @@
-# 纯月 Puremoon 使用条款
+# Terms of Use for Puremoon Download Site
 
-> 最后更新于 2025/03/17
-
-## 前言
-
-纯月 Puremoon 下载站（以下简称"纯月 Puremoon"），是纯月网络 运营团队 (Puremoon Network) 或其代理人所拥有、运营和管理的网站。
-
-纯月 Puremoon 同意按照本条款的规定，以及其不时更新的使用限制，提供基于互联网网页的软件在线下载服务。
-
-本条款是您与纯月 Puremoon 之间的协议，纯月 Puremoon下载站 依据本条款为您提供服务，并约束您的使用行为。
-
-纯月 Puremoon 可视情况决定于任何时间更新本条款的内容，包括变更、更改、修改、增加和/或移除本条款及细则中的任何部分。
-
-本协议服务条款构成您使用纯月 Puremoon 所提供服务的先决条件。若您不同意本协议服务条款或纯月 Puremoon 运营者随时对本条款的修改，您应主动停止使用纯月 Puremoon 提供的服务。
-
-**使用纯月 Puremoon 的服务，即代表您已知悉并同意本使用条款；一切违反本条款的行为都将由您自行全权负责，纯月 Puremoon 不承担任何相关责任。**
-
-## 使用用途限制
-
-纯月 Puremoon 下载站 网页上的内容只供私人及非商业使用。若事前未得到书面正式同意，您不可公开使用（包括但不限于公开复制、篡改、全部或部分转载、上传、传输、分发、许可使用、售卖及出版）任何数据。
-
-## 用户行为约束
-
-**使用纯月 Puremoon 时，您应遵守您当地的法律法规。**您不得通过纯月 Puremoon 的任何服务开展违反您当地法律法规的活动。
-
-**您应遵守您所获取的游戏软件的服务条款。**您不得使用纯月 Puremoon 提供的任何游戏软件资源，开展违反该游戏软件服务协议（Terms of Service，TOS）的活动，例如：非法修改游戏资源与材质、使用游戏修改程序、上传非法游戏成绩到游戏服务器等；若您进行或从事上述活动，导致游戏软件所属公司对您进行任何形式的处置（如：封锁账号、扣除或冻结游戏内虚拟代币等），纯月 Puremoon 将不予承担任何责任，一切行为的后果将由您个人承担。
-
-**未经许可，您不得以任何形式直接转载或爬取纯月 Puremoon 的内容。**纯月 Puremoon 提供的任何内容，未经口头或书面许可，禁止直接发表或转载到除纯月 Puremoon 以外的任何网页、社交平台、群聊等。有关转载使用的更多事宜，请查看[转载规范](repost)。
-
-**未经许可，您不得长期占用公共下载资源。**您应该只获取您需要的资源，而不应出于测速等无关原因占用服务器带宽。出于同样的原因，您不得出于任何目的长时间的进行超多线程（线程数 > 16）下载。
-
-### 对于居住地区为「中国大陆」的用户
-
-本文中所指中国大陆地区为**中华人民共和国（不包括中华人民共和国香港特别行政区、中华人民共和国澳门特别行政区、中国台湾地区）**。
-
-您不可将纯月 Puremoon 站点及上面的内容用于制作、复制、发布、传播下列任何信息[^1]：
-
-- 反对《中华人民共和国宪法》所确定的基本原则的；
-- 危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
-- 损害国家荣誉和利益的；
-- 煽动民族仇恨、民族歧视，破坏民族团结的；
-- 破坏国家宗教政策，宣扬邪教和封建迷信的；
-- 散布谣言，扰乱社会秩序，破坏社会稳定的；
-- 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
-- 侮辱或者诽谤他人，侵害他人合法权益的；
-- 含有法律、行政法规（**“中国大陆适用法律”**）禁止的其他内容的。
-
-敬请注意，由于法规、许可等原因或纯月 Puremoon 视情况决定的其他原因， 纯月 Puremoon下载站 **有一定可能无法在中国大陆境内提供或支持部分服务及功能**。若您接受上述条款，即视作您明确认可上述内容，并接受上述事实。
-
-除非中国大陆适用法律或监管部门另有要求，否则并不存在任何规定或期待，要求纯月 Puremoon下载站 应监控或记录您在网站上的任何在线活动，包括您与纯月 Puremoon 之间的往来通信。然而，纯月 Puremoon 保留可监控及记录在纯月 Puremoon下载站 上进行的任何在线活动的权利，而您在此明确同意纯月 Puremoon 可记录您在纯月 Puremoon下载站上的一切活动。
-
-为遵守中国大陆适用法律法规与政策，以及相关主管部门对于建立未成年人防沉迷保护措施的要求，** 纯月 Puremoon 有可能会对网站的部分内容做出一定程度上的限制**，具体限制内容及范围将根据法律法规要求、以及纯月 Puremoon 自身考量而决定，且限制将不时更改。
-
-## 免责声明
-
-** 纯月 Puremoon下载站 并非各游戏软件官方认可的下载站，因而无法对资源的可用性和合规性做出任何保证。** 纯月 Puremoon下载站 提供的游戏软件均收集于网络（包括但不限于 Google Play Store、TapTap 等），且未对其进行任何修改，亦未验证其安全性，您应自己鉴别其潜在风险；同时，纯月 Puremoon 有权利遵照游戏版权方的要求及其相关法律法规撤下资源。
-
-**纯月 Puremoon 就您或您的子女或任何其它用户对本协议的任何违反，概不承担任何责任**。您同意就任何由于您或您的子女对本协议的违反而导致纯月 Puremoon 被提出的申诉或要求，向纯月 Puremoon 作出赔偿，并同意就任何由于其它用户对本协议的违反而导致您被提出的申诉或要求时，使纯月 Puremoon 不受任何损害。
-
-**使用纯月 Puremoon 的服务，即代表您已知悉并同意使用条款；一切违反使用条款的行为都将由您自行全权负责，纯月 Puremoon 不承担任何相关责任。在新加坡共和国和中华人民共和国法律允许的范围内，纯月 Puremoon 对本条款拥有最终解释权。**
+> Last updated: March 17, 2025
 
 
-## 版权保护
+## Preamble
 
-纯月 Puremoon 接受受版权保护的内容的数字千年版权法案（DMCA）侵权通知。
+Puremoon Download Station (hereinafter referred to as "Puremoon Download Siontat") is a website owned, operated, and managed by the operating team of Puremoon Network or its agents.
 
-纯月 Puremoon 遵循 17 U.S.C. §512 的安全港条款，又称数字千年版权法（"DMCA"）。要向我们提交版权侵权通知，您需要发送一份书面通信，其中大致包括以下内容：
+Puremoon Download Station agrees to provide internet-based web software download services in accordance with the provisions of these Terms and its不时 updated usage restrictions.
 
-- 被授权代表涉嫌侵权的专有权所有者的实际或电子签名；
-- 声称被侵权的版权作品的标识，或者，如果一个通知涉及单个在线网站的多个版权作品，则该网站的此类作品的代表清单；
-- 声称被侵权的材料或侵权活动的对象，以及被删除或被禁止访问的材料的标识，以及足以让服务提供商找到该材料的合理信息。在电子邮件的正文中提供 URL 是帮助我们快速定位内容的最佳方式；
-- 足够合理的信息，以允许服务提供商联系投诉方，如地址、电话号码，以及如果有的话，可以联系投诉方的电子邮件地址；
-- 声明投诉方有充分理由相信，以投诉的方式使用该材料没有得到版权所有者、其代理人或法律的授权；
-- 声明通知中的信息是准确无误的，并且在作伪证的惩罚下，投诉方被授权代表涉嫌侵权的专有权所有者行事（注意，根据第512(f)条，任何人如果故意和实质性地歪曲材料或活动是侵权的，可能要承担赔偿责任。换句话说，不要做虚假的声明！）
+These Terms constitute an agreement between you and Puremoon Download Station. Puremoon Download Station provides services to you based on these Terms and restricts your usage behavior.
 
-纯月 Puremoon 一般会在收到投诉后 48 小时内处理。
+Puremoon Download Station reserves the right to update the content of these Terms at any time, including changing, altering, modifying, adding, and/or removing any part of these Terms and Conditions (details).
 
-若您针对未存储在纯月 Puremoon 服务器上的文件提出侵犯通知，请联系该存储服务商。纯月 Puremoon 无权删除外部服务器上的文件，因此可能不会处理与该软件相关的版权侵权通知。
+These Terms of Service constitute a prerequisite for your use of the services provided by Puremoon Download Station. If you do not agree to these Terms of Service or any modifications to these Terms made by the operator of Puremoon Download Station at any time, you shall voluntarily cease using the services provided by Puremoon Download Station.
 
-您可通过电子邮件发送侵权通知到 yuk1zuna@outlook.com 进行相关的操作。
+**By using the services of Puremoon Download Station, you acknowledge and agree to these Terms of Use; you shall be solely responsible for any acts that violate these Terms, and Puremoon Download Station shall not bear any related liability.**
 
-## 外部链接
 
-为方便用户使用，纯月 Puremoon 可能会采用外部网站和服务器及其资源的链接。除非另有声明，纯月 Puremoon  无法对第三方服务器和网站进行控制。
+## Restrictions on Usage Purpose
 
-用户因使用或依赖上述网站或资源所产生的损失或损害，纯月 Puremoon 不负担任何责任。
+The content on Puremoon Download Station is for personal and non-commercial use only. Without prior written formal consent, you shall not publicly use (including but not limited to public reproduction, tampering, full or partial reprinting, uploading, transmission, distribution, licensing, sale, and publication) any data.
 
-## 隐私与安全
 
-纯月 Puremoon 尊重并采取合理措施保护您的隐私，并已制定了相应的隐私政策，该隐私政策构成本协议的有机组成部分。若您想了解我们如何对您隐私进行保护，请参考我们的[隐私政策](privacy)。
+## Restrictions on User Behavior
 
-## 出口与国际使用
+**When using Puremoon Download Station, you shall comply with the laws and regulations of your local jurisdiction.** You shall not engage in activities that violate the laws and regulations of your local jurisdiction through any service provided by Puremoon Download Station.
 
-纯月 Puremoon 所属的 Puremoon Network通过新加坡共和国、中华人民共和国香港特别行政区和美利坚合众国境内的设施提供和控制服务。
+**You shall comply with the Terms of Service of the game software you obtain.** You shall not use any game software resources provided by Puremoon Download Station to engage in activities that violate the Terms of Service (TOS) of such game software, such as: illegally modifying game resources and materials, using game modification programs, uploading illegal game scores to game servers, etc.; if you conduct or engage in the above activities, leading to any form of disposal by the company owning the game software (such as: account blocking, deduction or freezing of in-game virtual tokens, etc.), Puremoon Download Station shall not bear any liability, and you shall bear all consequences of such acts.
 
-**纯月 Puremoon 不担保所提供或控制的服务在其他国家或地区是适当的、可行的，任何在其他司法管辖区使用纯月 Puremoon 的用户应自行确保遵守当地的法律、法规，微光 Lowlight 对此不负任何责任。**
+**Without permission, you shall not directly reprint or crawl the content of Puremoon Download Station in any form.** Any content provided by Puremoon Download Station is prohibited from being directly published or reprinted to any web page, social platform, group chat, etc. other than Puremoon Download Site without oral or written permission. For more information on reprinting, please refer to [Reposting Guidelines](repost).
 
-## 服务的中止与终止
+**Without permission, you shall not occupy public download resources for a long time.** You should only obtain the resources you need, and shall not occupy server bandwidth for irrelevant reasons such as speed testing. For the same reason, you shall not engage in ultra-multi-threaded (number of threads > 16) downloads for a long time for any purpose.
 
-**纯月 Puremoon 保留可按自身的裁量决定从纯月 Puremoon 的任何位置删除任何内容的权利，而无需事先通知用户**。
 
-纯月 Puremoon 有权基于自身考虑，因任何正当理由，包括但不限于政策变动、舆论冲击、服务器故障等，暂停、中止乃至终止提供下载服务。
+### For Users Residing in "Mainland China"
 
-## 法律适用和司法管辖
+For the purpose of this document, the Mainland China region refers to the **People's Republic of China (excluding the Hong Kong Special Administrative Region of the People's Republic of China, the Macao Special Administrative Region of the People's Republic of China, and Taiwan Region of China)**.
 
-除非已另外明确指出，本条款及细则均以中国人民中国国香港特别行政区的法律管辖和诠释。 就任何由于或有关本网站和本条款及细则所引起纷争及争议，均受中华人民共和国香港特别行政区法院的司法管辖。
+You shall not use Puremoon Download Station and its content to produce, copy, publish, or disseminate any of the following information[^1]:
 
-如就本协议内容或其执行发生任何争议，应尽量友好协商解决；协商失败时，则争议各方均可向纯月 Puremoon 注册所在地具有管辖权的法院提起诉讼。
+- Opposing the basic principles established by the Constitution of the People's Republic of China;
+- Endangering national security, leaking state secrets, subverting state power, or undermining national unity;
+- Damaging national honor and interests;
+- Inciting ethnic hatred, ethnic discrimination, or undermining ethnic unity;
+- Violating state religious policies, promoting cults, or feudal superstitions;
+- Spreading rumors, disrupting social order, or undermining social stability;
+- Spreading obscenity, pornography, gambling, violence, murder, terror, or instigating crimes;
+- Insulting or slandering others, or infringing upon others' legitimate rights and interests;
+- Containing other contents prohibited by laws and administrative regulations ("Laws Applicable in Mainland China").
 
-本条款的一切解释权与修改权归纯月 Puremoon 所有。
+Please note that due to legal regulations, licensing reasons, or other reasons determined by Puremoon Download Station at its discretion, **Puremoon Download Station may not be able to provide or support some services and functions within Mainland China**. If you accept the above terms, you are deemed to clearly recognize the above content and accept the above facts.
 
-[^1]:参考[互联网信息服务管理办法（中国大陆）](http://www.gov.cn/gongbao/content/2011/content_1860864.htm)。
+Unless otherwise required by the laws applicable in Mainland China or regulatory authorities, there is no provision or expectation requiring Puremoon Download Site to monitor or record any of your online activities on the website, including communications between you and Puremoon. However, Puremoon reserves the right to monitor and record any online activities conducted on Puremoon Download Station, and you hereby explicitly agree that Puremoon may record all your activities on Puremoon Download Station.
+
+To comply with the laws, regulations, and policies applicable in Mainland China, as well as the requirements of relevant competent authorities for establishing anti-addiction protection measures for minors, **Puremoon may impose certain restrictions on some content of the website**. The specific content and scope of restrictions will be determined in accordance with legal and regulatory requirements and Puremoon's own considerations, and the restrictions will be changed from time to time.
+
+
+## Disclaimer
+
+**Puremoon Download Station is not an officially recognized download site for various game software, and therefore cannot make any guarantees regarding the availability and compliance of the resources.** The game software provided by Puremoon Download Site is collected from the internet (including but not limited to Google Play Store, TapTap, etc.), without any modifications, and its security has not been verified. You shall identify its potential risks yourself; at the same time, Puremoon has the right to remove resources in accordance with the requirements of game copyright owners and relevant laws and regulations.
+
+**Puremoon shall not be liable for any violation of this Agreement by you, your children, or any other user.** You agree to indemnify Puremoon against any claims or demands made against Puremoon due to any violation of this Agreement by you or your children, and agree to hold Puremoon harmless against any claims or demands made against you due to any violation of this Agreement by other users.
+
+**By using Puremoon's services, you acknowledge and agree to the Terms of Use; you shall be solely responsible for any acts that violate the Terms of Use, and Puremoon shall not bear any related liability. To the extent permitted by the laws of the Republic of Singapore and the People's Republic of China, Puremoon shall have the final interpretation right of these Terms.**
+
+
+## Copyright Protection
+
+Puremoon Download Station accepts Digital Millennium Copyright Act (DMCA) infringement notices for copyrighted content.
+
+Puremoon complies with the safe harbor provisions of 17 U.S.C. §512, also known as the Digital Millennium Copyright Act ("DMCA"). To submit a copyright infringement notice to us, you need to send a written communication that generally includes the following:
+
+- A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+- Identification of the copyrighted work claimed to have been infringed, or, if one notice covers multiple copyrighted works at a single online site, a representative list of such works at that site;
+- Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material. Providing URLs in the body of an email is the best way to help us locate content quickly;
+- Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an email address at which the complaining party may be contacted;
+- A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
+- A statement that the information in the notice is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed (Note that under section 512(f), anyone who intentionally materially misrepresents that material or activity is infringing may be liable for damages. In other words, do not make false claims!).
+
+Puremoon generally processes complaints within 48 hours of receipt.
+
+If you submit an infringement notice regarding files not stored on Puremoon's servers, please contact the storage service provider. Puremoon has no right to delete files on external servers and therefore may not process copyright infringement notices related to such software.
+
+You may send infringement notices via email to 3859227514@qq.com for related operations.
+
+
+## External Links
+
+For the convenience of users, Puremoon may use links to external websites, servers, and their resources. Unless otherwise stated, Puremoon cannot control third-party servers and websites.
+
+Puremoon shall not be liable for any losses or damages arising from your use of or reliance on the above-mentioned websites or resources.
+
+
+## Privacy and Security
+
+Puremoon respects and takes reasonable measures to protect your privacy and has formulated a corresponding privacy policy, which constitutes an integral part of this Agreement. If you want to know how we protect your privacy, please refer to our [Privacy Policy](privacy).
+
+
+## Export and International Use
+
+Puremoon Network, to which Puremoon belongs, provides and controls services through facilities located in the Republic of Singapore, the Hong Kong Special Administrative Region of the People's Republic of China, and the United States of America.
+
+**Puremoon does not warrant that the services provided or controlled are appropriate or feasible in other countries or regions. Any user using Puremoon in other jurisdictions shall ensure compliance with local laws and regulations on their own, and Puremoon shall not bear any liability for this.**
+
+
+## Suspension and Termination of Services
+
+**Puremoon reserves the right to delete any content from any location on Puremoon Download Station at its own discretion without prior notice to users.**
+
+Puremoon has the right, based on its own considerations, to suspend, discontinue, or terminate the provision of download services for any legitimate reason, including but not limited to policy changes, public opinion impact, server failures, etc.
+
+
+## Governing Law and Jurisdiction
+
+Unless otherwise explicitly stated, these Terms and details shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region of the People's Republic of China. Any disputes and controversies arising from or in connection with this website and these Terms and details shall be subject to the exclusive jurisdiction of the courts of the Hong Kong Special Administrative Region of the People's Republic of China.
+
+In case of any dispute regarding the content of this Agreement or its implementation, the parties shall strive to resolve it through friendly negotiation; if negotiation fails, each party may file a lawsuit with the competent court at the place where Puremoon is registered.
+
+The right to interpret and modify these Terms shall belong to Puremoon.
+
+
+[^1]: Refer to [Measures for the Administration of Internet Information Services (Mainland China)](http://www.gov.cn/gongbao/content/2011/content_1860864.htm).
 
