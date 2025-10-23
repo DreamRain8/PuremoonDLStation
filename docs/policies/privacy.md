@@ -1,78 +1,87 @@
-# 隐私政策
+# Privacy Policy
 
-> 最后更新于 2025/03/18
+> Last updated: March 18, 2025
 
-## 前言
 
-纯月 Puremoon 下载站是由从属于 Puremoon/纯月 的 Puremoon Network/纯月网络 运营团队（下称“我们/我方”）提供服务的产品。
+## Preface
 
-我们深知个人信息对您的重要性。我们将按您当地的法律法规要求，采取相应的安全保护措施，尽力保护您的个人信息安全可控。鉴此，我们制定本《纯月 Puremoon 下载站隐私政策》（下称“本政策/本隐私政策”），并提醒您：
+Puremoon Download Station is a product operated by the Puremoon Network operation team affiliated with Puremoon (hereinafter referred to as "we/us").
 
-1. 在您使用纯月 Puremoon 下载站 的服务时，您同意我方按照本政策收集、存储、使用、披露和保护您的个人信息。我方希望通过本政策清楚地向您介绍对您个人信息的处理方式；
-2. 根据相关法律法规要求，网络产品、服务具有收集用户信息功能的，其提供者应当向用户明示并取得同意。我方特此通过本政策向您告知收集、使用用户个人信息的目的、方式和范围，查询、更正信息的渠道以及拒绝提供信息的后果；
-3. 本政策不适用于其他第三方向您提供的服务，您向第三方提供的个人信息不适用于本政策，除非法律有明确规定，我方对任何第三方使用由您提供的信息不承担任何责任；
-4. 在使用纯月 Puremoon 下载站的各项产品或服务前，请您务必仔细阅读并理解本政策，在确认充分理解并同意后使用相关产品或服务。如果您不同意本政策任何内容，您应立即停止使用纯月 Puremoon 下载站 。当您使用纯月 Puremoon 下载站提供的任一服务时，即表示您已同意我们按照本政策来合法收集、使用和保护您的个人信息。如对本政策内容有任何疑问、意见或建议，您可通过电子邮箱 [3859227514@qq.com](mailto:3859227514@qq.com) 与我们联系；
-5. 使用纯月 Puremoon 下载站提供的服务，即代表您接受本站的隐私政策。如隐私政策有更新，纯月 Puremoon 下载站会第一时间在主页进行公示。
+We are well aware of the importance of your personal information to you. We will adopt corresponding security protection measures in accordance with the legal requirements of your local jurisdiction to strive to protect the security and controllability of your personal information. In view of this, we have formulated this *Puremoon Download Station Privacy Policy* (hereinafter referred to as "this Policy/this Privacy Policy") and remind you of the following:
 
-## 信息的收集
+1. When you use the services of Puremoon Download Station, you agree that we will collect, store, use, disclose, and protect your personal information in accordance with this Policy. We hope to clearly inform you of the handling methods of your personal information through this Policy;
+2. In accordance with the requirements of relevant laws and regulations, if a network product or service has the function of collecting user information, its provider shall explicitly inform the user and obtain consent. We hereby inform you through this Policy of the purposes, methods, and scope of collecting and using user personal information, the channels for inquiring about and correcting information, and the consequences of refusing to provide information;
+3. This Policy does not apply to services provided to you by other third parties. Your personal information provided to third parties is not subject to this Policy. Unless explicitly stipulated by law, we shall not be liable for any use of the information provided by you by any third party;
+4. Before using any product or service of Puremoon Download Station, please be sure to carefully read and understand this Policy, and use the relevant products or services only after confirming that you have fully understood and agreed to it. If you do not agree with any content of this Policy, you should immediately stop using Puremoon Download Station. When you use any service provided by Puremoon Download Station, it means that you have agreed that we will legally collect, use, and protect your personal information in accordance with this Policy. If you have any questions, opinions, or suggestions regarding the content of this Policy, you can contact us via email at [3859227514@qq.com](mailto:3859227514@qq.com);
+5. Using the services provided by Puremoon Download Station means that you accept the Privacy Policy of this site. If the Privacy Policy is updated, Puremoon Download Station will announce it on the homepage as soon as possible.
 
-为向您提供正常的下载服务，**我们将根据您使用的服务收集您的如下信息：**
 
-1. **采集方式为在您使用服务过程中自动采集的信息：**浏览、搜索、下载内容功能，所收集的个人信息为设备基本信息（包括设备型号、操作系统类型及版本号、浏览器 UA）、日志信息（包括您的 IP 地址、电信运营商）。从您的各种设备上收集到的信息之间的关联关系，以保持我们能在这些设备上为您提供一致的服务。请注意，单独的设备信息、日志信息等是无法识别特定自然人身份的信息。如果我们将这类非个人信息与其他信息结合用于识别特定自然人身份，或者将其与个人信息结合使用，则在结合使用期间，这类非个人信息将被视为个人信息，除取得您授权或法律法规另有规定外，我们会将该类个人信息做匿名化、去标识化处理。上述信息为我方平台向您提供核心功能所必须。
-2. **采集方式为您向我们提供的信息：**本站的问卷调查、社交媒体私信、社交媒体动态等服务中，我方会收集您对问题的答复信息，根据如上信息，用于获得您对某一问题的偏好和态度，以便为您提供个性化的服务。
-3. **通过间接获得的方式收集的信息：**您使用我方的关联方、我方合作伙伴的产品和服务，与我方产品服务之间交互的行为信息。当您通过我们产品或服务使用上述服务时，您授权我们根据实际需要，从我们关联服务处接收、汇总、分析我们确认其来源合法或您授权同意其向我们提供的您的个人信息或交易信息。我们承诺，我们已对上述个人信息的来源的合法性进行了确认。
-4. **使用 Cookies 等技术收集的信息：**我们所使用的静态网页构建工具自动创建了 Cookies 以记录您的来访，但这些 Cookies 不会记录您的任何个人信息。我们的某些服务只能通过使用 Cookie 才可得到实现。如果您的浏览器或浏览器附加服务允许，您可以修改对 Cookies 的接受程度或者拒绝我方的 Cookies ，但这一举动在某些情况下可能会影响您安全访问我方平台相关网站和使用我方平台提供的服务。
+## Information Collection
 
-## 信息的使用
+To provide you with normal download services, **we will collect the following information about you based on the services you use:**
 
-我们会出于本政策所述的以下目的，收集和使用您的个人信息：
+1. **Information automatically collected during your use of the services:** For functions such as browsing, searching, and downloading content, the collected personal information includes basic device information (including device model, operating system type and version number, browser User Agent (UA)), and log information (including your IP address, telecommunications provider). The correlation between information collected from your various devices is maintained to ensure that we can provide you with consistent services across these devices. Please note that separate device information, log information, etc., are information that cannot identify a specific natural person. If we combine such non-personal information with other information to identify a specific natural person, or use it in combination with personal information, during the period of combined use, such non-personal information will be regarded as personal information. Except with your authorization or as otherwise stipulated by laws and regulations, we will anonymize and de-identify such personal information. The above information is necessary for our platform to provide you with core functions.
+2. **Information you provide to us:** In services such as questionnaires, social media private messages, and social media updates on this site, we will collect your responses to questions. Based on such information, we aim to understand your preferences and attitudes towards certain issues to provide you with personalized services.
+3. **Information collected through indirect means:** Information about your interactive behaviors between our products/services and the products and services of our affiliates or partners when you use them. When you use the above services through our products or services, you authorize us to receive, summarize, and analyze your personal information or transaction information from our affiliated services, provided that we confirm the legality of their sources or you authorize them to provide such information to us, as needed. We undertake that we have confirmed the legality of the sources of the above personal information.
+4. **Information collected using technologies such as Cookies:** The static webpage building tools we use automatically create Cookies to record your visits, but these Cookies will not record any of your personal information. Some of our services can only be realized through the use of Cookies. If your browser or browser add-on services allow, you can modify your acceptance of Cookies or refuse our Cookies, but this action may affect your secure access to the relevant websites of our platform and your use of the services provided by our platform in some cases.
 
-1. 服务提供：向您提供各项服务（内容浏览和下载），并设计、维护、改进这些服务。服务提供中仅限于我方相关运营服务人员可以访问您的个人信息，目的是确保网站没有出现被盗链和被爬现象；
-2. 风险识别：我们可能使用您的个人信息以预防、发现、调查欺诈、危害安全、非法或违反与我们或其关联方协议、政策或规则的行为，如流量异常等，以保护您和我们其他用户或我们及其关联方的合法权益；
-3. 公共利益维护：用以保护您和我们其他用户或我们及其关联方的合法利益。
 
-## 信息的存储
+## Information Use
 
-我方收集的有关您的信息和资料将保存在我方及（或）我方关联公司所控制、使用、租赁的服务器上，我方对您相关资料信息会进行严格的保密和使用控制。这些信息和资料可能传送至您所在国家、地区或我方收集信息和资料所在地并在该地被访问、存储和展示。
+We will collect and use your personal information for the following purposes stated in this Policy:
 
-我们会采取合理可行的措施避免收集无关的个人信息。**一般情况下我们仅会将您的个人信息保存 48 小时。**上述保存期限为达成本政策所述目的所需的最短期限，除非您同意延长保留期或受到法律的允许。保存期限到期后，我们将对您的个人信息进行删除或匿名化处理。
+1. Service provision: To provide you with various services (content browsing and downloading), and to design, maintain, and improve these services. In service provision, only our relevant operational personnel can access your personal information to ensure that the website is not subject to hotlinking or crawling;
+2. Risk identification: We may use your personal information to prevent, detect, and investigate fraud, security hazards, illegal acts, or acts that violate agreements, policies, or rules with us or our affiliates, such as abnormal traffic, to protect the legitimate rights and interests of you, our other users, or us and our affiliates;
+3. Protection of public interests: To protect the legitimate interests of you, our other users, or us and our affiliates.
 
-如本平台服务决定停止运营时，我们将在相关服务停止运营后停止继续收集您的个人信息。我们将以公告形式将停止运营通知向您送达。对已持有的您的个人信息将进行删除或匿名化处理。
 
-我们致力于维护符合行业标准的适当技术和组织的安全措施，以帮助保护您的信息免受未经授权或意外泄露、访问、误用、丢失或篡改。虽然我们努力保护您的信息，但我们不能确保或保证这些信息的安全性。没有绝对的安全性。
+## Information Storage
 
-## 信息的共享、披露、转让
+The information and data we collect about you will be stored on servers controlled, used, or leased by us and/or our affiliated companies. We will strictly maintain the confidentiality of your relevant data and control its use. Such information and data may be transmitted to, accessed, stored, and displayed in the country or region where you are located or where we collect the information and data.
 
-我们对您的信息承担保密义务，除下列情形外，我们不会与任何其他第三方共享您的个人信息。
+We will take reasonably feasible measures to avoid collecting irrelevant personal information. **Under normal circumstances, we will only retain your personal information for 48 hours.** The above retention period is the shortest period necessary to achieve the purposes stated in this Policy, unless you agree to extend the retention period or it is permitted by law. After the expiration of the retention period, we will delete your personal information or conduct anonymization processing on it.
 
-以下情形中，共享、转让、公开披露您的个人信息无需事先征得您的授权同意： 
+If the services of this platform decide to cease operations, we will stop collecting your personal information after the relevant services cease. We will notify you of the cessation of operations through an announcement. The personal information we already hold about you will be deleted or anonymized.
 
-1. 与国家安全、国防安全有关的； 
-2. 与公共安全、公共卫生、重大公共利益有关的； 
-3. 与犯罪侦查、起诉、审判和判决执行等有关的。
+We are committed to maintaining appropriate technical and organizational security measures that meet industry standards to help protect your information from unauthorized or accidental disclosure, access, misuse, loss, or tampering. Although we strive to protect your information, we cannot ensure or guarantee its absolute security, as absolute security does not exist.
 
-根据法律规定，共享、转让经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别个人信息主体的，不属于个人信息的对外共享、转让及公开披露行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。
 
-## 未成年人隐私保护
+## Sharing, Disclosure, and Transfer of Information
 
-我们重视未成年人的个人信息保护。如您为未满十八周岁的未成年人，**建议您请您的监护人仔细阅读本隐私政策，并在征得您的监护人同意的前提下，使用我们的服务或向我们提供信息。**
+We assume an obligation of confidentiality for your information and will not share your personal information with any other third party except in the following circumstances.
 
-对于经父母或监护人同意使用我们的产品或服务而收集未成年人个人信息的情况，我们只会在当地法律法规允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用、共享、转让或披露此信息。
+In the following cases, prior authorization and consent from you are not required for sharing, transferring, or publicly disclosing your personal information:
 
-## 信息的国际传输
+1. Matters related to national security and national defense security;
+2. Matters related to public security, public health, and major public interests;
+3. Matters related to criminal investigation, prosecution, trial, and execution of judgments.
 
-我们在中华人民共和国香港特别行政区运营中收集和产生的个人信息，存储在新加坡共和国、中华人民共和国香港特别行政区和美利坚合众国境内，并在美利坚合众国境内备份。
+According to legal provisions, sharing or transferring de-identified personal information, ensuring that the data receiver cannot restore or re-identify the subject of the personal information, does not constitute external sharing, transfer, or public disclosure of personal information. The storage and processing of such data will not require separate notification to you or obtaining your consent.
 
-请注意，我们收集的信息（包括个人信息）将被传输、处理和存储到这些国家或地区，因此，在某些情况下，这些国家或地区的法院、执法机构和其他主管部门可能有权访问您的个人信息。
 
-我们通过与接收者签订合同或其他方式仅在适用法律允许的情况下进行传输，以确保在将信息传输到您的国家或地区以外时采取适当的保障措施。
+## Protection of Minors' Privacy
 
-您使用我们的服务或通过这些服务向我们提供任何信息，即表示您承认，您的信息在这些国家或地区的传输、处理和存储，可能不如您居住或作为其公民的国家或地区的隐私法律全面。
+We attach importance to the protection of minors' personal information. If you are a minor under the age of 18, **it is recommended that you ask your guardian to carefully read this Privacy Policy and use our services or provide information to us only with the consent of your guardian.**
 
-## 隐私政策的修订与更新
+For the collection of minors' personal information when they use our products or services with the consent of their parents or guardians, we will only use, share, transfer, or disclose such information as permitted by local laws and regulations, with the explicit consent of parents or guardians, or as necessary to protect minors.
 
-我方平台有权修改隐私政策，并在修订生效前通过我方平台公告或以其他适当方式通知您。该情况下，若您继续使用我们的服务，即表示您已同意受经修订的我方平台隐私政策的约束。
 
-## 如何联系我们
+## International Transfer of Information
 
-如对本政策内容有任何疑问、意见或建议，您可通过发送电子邮件至 [3859227514@qq.com](mailto:3859227514@qq.com) 与我们联系。
+The personal information collected and generated during our operations in the Hong Kong Special Administrative Region of the People's Republic of China is stored in the Republic of Singapore, the Hong Kong Special Administrative Region of the People's Republic of China, and the United States of America, with backups in the United States of America.
+
+Please note that the information we collect (including personal information) will be transmitted, processed, and stored in these countries or regions. Therefore, in some cases, courts, law enforcement agencies, and other competent authorities in these countries or regions may have the right to access your personal information.
+
+We conduct transfers only where permitted by applicable laws through contracts with recipients or other means to ensure that appropriate safeguards are in place when information is transferred outside your country or region.
+
+By using our services or providing us with any information through these services, you acknowledge that the transmission, processing, and storage of your information in these countries or regions may not be subject to privacy laws as comprehensive as those in the country or region where you reside or of which you are a citizen.
+
+
+## Revision and Update of the Privacy Policy
+
+Our platform reserves the right to revise the Privacy Policy and will notify you through announcements on our platform or other appropriate means before the revised policy takes effect. In such cases, if you continue to use our services, it means that you have agreed to be bound by the revised Privacy Policy of our platform.
+
+
+## How to Contact Us
+
+If you have any questions, comments, or suggestions regarding the content of this Policy, you can contact us by sending an email to [3859227514@qq.com](mailto:3859227514@qq.com).
