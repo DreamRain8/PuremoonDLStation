@@ -1,4 +1,4 @@
-# Terms of Use for Puremoon Download Site
+# Terms of Use for Puremoon Download Station
 
 > Last updated: March 17, 2025
 
