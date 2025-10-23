@@ -17,21 +17,21 @@ const sidebars = {
     tutorialSidebar: [{
             type: 'doc',
             id: 'games',
-            label: '🎮游戏下载',
+            label: '🎮Mobile Games',
         },
         {
             type: 'doc',
             id: 'desktop',
-            label: '🖥️桌面端游戏',
+            label: '🖥️Desktop Games',
         },
         {
             type: 'doc',
             id: 'faq',
-            label: '❓疑难解答',
+            label: '❓FAQ',
         },
         {
             type: 'category',
-            label: 'ℹ️站点信息',
+            label: 'ℹ️Site information',
             collapsed: true,
             items: [
                 'info/about',
@@ -41,7 +41,7 @@ const sidebars = {
         },
         {
             type: 'category',
-            label: '📝更新日志',
+            label: '📝Changelog',
             collapsed: true,
             items: [
                 'updatelog/main',
