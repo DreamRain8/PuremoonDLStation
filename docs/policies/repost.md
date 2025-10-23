@@ -1,72 +1,79 @@
-# 使用与转载规范
+# Usage and Reposting Guidelines
 
-> 最后更新于 2025/03/17
+> Last updated on March 17, 2025
 
-本转载规范将针对[使用条款-用户行为约束](tos)中的「转载」和「使用」行为做出详细解释和补充扩展。
+This reposting guideline provides detailed explanations and supplementary extensions for the "reposting" and "usage" behaviors specified in [Terms of Service - User Behavior Restrictions](tos).
 
-请注意，本转载规范作为[使用条款](tos)的有机组成部分，随时有可能进行改动。
+Please note that this reposting guideline is part of the [Terms of Service](tos) and may be revised at any time.
 
-## 为什么制定本规范？
 
-为了下载站的健康、可持续发展，使这个站能走得更远。无论是作为站点运营者的我们，还是作为用户的您，应该都不希望天天有人盗链爬链接占用下载资源吧？
+## Why is this guideline established?
 
-虽然我们完全不可能追着你们出警说你们“别转载”然后进行一个人的挂，但是还是请您自觉遵守本规范。
+To ensure the healthy and sustainable development of the download station, allowing it to thrive in the long run. Both we, as site operators, and you, as users, presumably do not want others to engage in hotlinking or crawling links every day, which would consume download resources, right?
 
-## 允许的转载行为
+Although we will never actively police you by telling you "don't repost" or publicly call you out, we still ask that you consciously abide by this guideline.
 
-1. 目前，您可以自由转发分享本站的域名到其他社交平台和社群。
 
-   例：您可以通过 QQ 或 QQ 群告诉你的朋友有个音游下载站叫 Puremoon/纯月 下载站 ，也可以发到 B 站动态或者视频。
+## Permitted Reposting Behaviors
 
-   **但以下平台例外，您不得在以下平台提及本站：**
+1. Currently, you are free to forward and share the domain name of this site to other social platforms and communities.
 
-   - QQ 空间；
-   - QQ 看点；
-   - 短视频平台，如抖音；
+   Example: You can tell your friends via Telgram or Telegram groups that there is a rhythm game download site called Puremoon Download Station, or post it on Bilibili dynamics or videos.
 
-2. 作为一个[公益项目](https://github.com/DreamRain8/PuremoonDLStation)，您完全可以按照开源社区的规则 Fork 本项目或提出 Pull Request；**但禁止在未 Fork 项目的情况下直接克隆（clone）本项目并进行修改**；
+   **However, the following platforms are exceptions; you are not allowed to mention this site on:**
+   - QQ Space;
+   - QQ Kandian;
+   - Short video platforms, such as Tiktok;
 
-3. 您可以将资源的直链通过**私下分享**发送给其他人。
+2. As a [public welfare project](https://github.com/DreamRain8/PuremoonDLStation), you are fully allowed to Fork this project or submit Pull Requests in accordance with open-source community rules; **however, directly cloning the project and making modifications without forking it is prohibited**;
 
-   例：朋友在找 Phigros 愚人节版本的安装包，这时候您可以直接私聊发给他本站的下载链接。
+3. You may send direct links to resources to others via **private sharing**.
 
-4. 您可以把资源下载到本地之后，再通过其他方式分享资源。
+   Example: If a friend is looking for the April Fools' version installation package of Phigros, you can directly send the download link from this site to them via private chat.
 
-   例：下载之后传到某网盘再分享，或者传到自己的服务器做一个自己的下载链接。
+4. You may download resources to your local device and then share them through other means.
 
-## 不允许的转载行为
+   Example: After downloading, upload to a cloud storage service and then share, or upload to your own server to create your own download link.
 
-1. 和上一条的 3 相对应，您不得直接发送资源的直链到公开的社交平台。
 
-   例：将 Phigros 愚人节版本的下载链接，直接发到贴吧或者 B 站动态上，是不被允许的。
+## Prohibited Reposting Behaviors
 
-2. 您不得以任何技术手段（如：脚本、爬虫）爬取本站的资源。
+1. Corresponding to point 3 in the previous section, you are not allowed to directly send direct links to resources to public social platforms.
 
-3. 您不得通过转载本站链接进行任何形式的盈利行为。
+   Example: Directly posting the download link for the April Fools' version of Phigros on Tieba or Bilibili dynamics is prohibited.
 
-## 需要经过许可的转载行为
+2. You shall not crawl resources from this site through any technical means (e.g., scripts, crawlers).
 
-若要联络本站运营者，请前往[联系方式](../info/about)。
+3. You shall not engage in any form of profit-making activities by reposting links from this site.
 
-1. 如果您是站长或者内容产出者，需要转载本站的内容放到自己的网站、应用、博客、视频、文章中，则您需要事先联络本站的运营者并取得同意。
-2. 所有违反上述不允许的转载行为，如果您确实想要这样转载且有合理理由的话，您需要事先联络本站的运营者并取得同意。
 
-:::caution 致下游的其他下载站
+## Reposting Behaviors Requiring Permission
 
-为了不让您站点的用户饱受折磨，也为了避免双方事后互相扯皮，我个人诚挚的建议您**将本站的安装包抓取到您自己的服务器，并在您的站点上使用您自己服务器的下载链接。**当然，您也可以想办法直接从 Play Store 抓包。
+To contact the operators of this site, please visit [Contact Information](../info/about).
 
-:::
+1. If you are a site owner or content creator and need to repost content from this site to your own website, application, blog, video, or article, you must contact the operators of this site in advance and obtain consent.
 
-:::caution 致开发者和内容产出者
+2. For any reposting behavior that violates the prohibited items mentioned above, if you indeed wish to engage in such reposting with valid reasons, you must contact the operators of our site in advance and obtain consent.
 
-您可以将本站的内容转载或整合到您的网站、应用、文章、视频中，但在这么做之前**请务必提前告知我，不要先上车后补票**。同时，由于之前发生过一些不好的事情，所以在申请转载之前请务必说明清楚您的来意。
 
-**沟通是一切合作的前提，因此请务必提前与我沟通，谢谢合作。**
+:::caution To other downstream download sites
+
+To prevent users of your site from suffering and to avoid disputes between both parties afterwards, I personally sincerely recommend that you **crawl the installation packages from this site to your own server and use download links from your own server on your site.** Of course, you can also find ways to directly capture packages from the Play Store.
 
 :::
 
-:::caution 致各位下载站用户
 
-本站仍处于内测阶段，相关域名/地址很有可能会发生更变，目前最可靠获取本站最新网址的方式是加入官方交流群（详见[联系方式](../info/about)）
+:::caution To developers and content creators
+
+You may repost or integrate content from this site into your website, application, article, or video, but **please be sure to inform me in advance before doing so; do not act first and seek permission later**. Additionally, due to some unpleasant incidents in the past, please be sure to clearly state your intentions when applying for reposting.
+
+**Communication is the prerequisite for all cooperation, so please be sure to communicate with me in advance. Thank you for your cooperation.**
+
+:::
+
+
+:::caution To all users
+
+Our site is still in the internal testing phase, and the relevant domain name/address is likely to change. Currently, the most reliable way to obtain the latest URL of this site is to join the official communication group (see [Contact Information](../info/about) for details).
 
 :::
