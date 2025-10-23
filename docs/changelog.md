@@ -1,16 +1,16 @@
 ---
 id: changelog
-title: 更新日志
+title: Changelog
 ---
 
-见证本站历史的地方。
+A place that bears witness to the history of our site.
 
-更新日志实际上是对过去一段时间内众多 commits 的总结，更详细的改动记录可以查看 [GitHub 上本项目的 commits](https://github.com/DreamRain8/PuremoonDLStation/commits/main) 。
+The changelog is actually a summary of numerous commits over a period of time. For more detailed change records, you can view [this project's commits on GitHub](https://github.com/DreamRain8/PuremoonDLStation/commits/main).
 
-## 2025 年
+## 2025
 
-### 2025 年 3月
+### March 2025
 
 #### 2025/03/18
 
-- 开放内部测试。
+- Internal testing opened.
