@@ -151,7 +151,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '下载站的健康发展离不开您的支持。<a href="/info/donate">前往捐赠页→</a>',
+            content: 'The development of the download station cannot be achieved without your support.<a href="/info/donate">Go to the donation page→</a>',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: true,
@@ -249,7 +249,7 @@ const config = {
                             label: 'Help in use',
                             to: 'faq',
                         }, {
-                            label: '捐赠支持',
+                            label: 'Support Us',
                             to: 'info/donate'
                         }
                     ],
