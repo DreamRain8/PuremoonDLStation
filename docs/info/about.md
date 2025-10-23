@@ -1,46 +1,46 @@
 ---
 id: about
-title:  关于我们
+title: About Us
 ---
 
-## 官方一点的简介
+## Official Introduction
 
-纯月 Puremoon 是一个简单的**以移动端为主**的音乐游戏下载站，旨在为不便下载各类移动端音游的玩家，提供更加方便与轻松的游戏获取渠道。
+Puremoon Download Station is a simple **mobile-focused** music game download site. It aims to provide a more convenient and easy channel for obtaining games for players who have difficulty downloading various mobile music games.
 
 
-## 站长写的非正式简介
+## Informal Introduction by the Site Owner
 
-你好，我是纯月 Puremoon 下载站的现任站长梦雨/Dream Rain。
+Hello, I'm Dream_Rain, the current owner of the Puremoon download site.
 
-纯月 Puremoon 下载站是个目前为止只提供部分游戏的下载站，或许以后也会提供其他的什么玩意。
+Puremoon Download Station is one that only provides downloads for some games so far, and maybe it will offer other things in the future.
 
-由于站长是个~~菜狗加懒 B~~ ，所以倒也暂时没有想做成 616.sb 那么大一个站的野心，事实上单纯就是想做个分流~~（抢流量）~~罢了。
+Since I am a bit of a noob and lazy, there's no ambition to make it as big as 616.sb for now. In fact, it's simply meant to be a traffic diversion (to "steal" traffic, sort of).
 
-由于不可明说的原因，部分游戏下载使用的并不是境内服务器，如果下载不稳定，还请多担待。
+For reasons that cannot be explicitly stated, some game downloads do not use China Mainland servers. If the download is unstable, please bear with us.
 
 ***2025/03/17***
 
 -----
 
-时至今日，下载站已经拥有了数量相当可观的用户群~~（虽然我觉得更多是先发优势及引流）~~，现今每个月的流量支出也十分可观。
+To this day, the download site has a quite considerable user base (though I think it's more due to first-mover advantage and traffic attraction). The monthly traffic costs are also quite substantial now.
 
-让所有人更方便的体验到游戏的乐趣是**本站的创立目标**之一。2025 年，让我们一起加油。
+One of the founding goals of this site is to make it more convenient for everyone to experience the joy of games. Let's work hard together in 2025!
 
-## 联系方式
+## Contact Information
 
-[bilibili:Puremoon音游下载站](https://space.bilibili.com/673409542)
+[bilibili: Puremoon Music Game Download Site](https://space.bilibili.com/673409542)
 
-[QQ交流群: 582810347](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uZZjWCZ1kPVaYgVBnMm3QJxKtCxwI6RH&authKey=5NY%2FTVTQCYm7VBi1GzlfVDCSSqNvgW721D%2FwaAPe28IQmbKbvCnMai%2B5eo0LGyeF&noverify=0&group_code=674102755)
+[QQ Group: 582810347](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uZZjWCZ1kPVaYgVBnMm3QJxKtCxwI6RH&authKey=5NY%2FTVTQCYm7VBi1GzlfVDCSSqNvgW721D%2FwaAPe28IQmbKbvCnMai%2B5eo0LGyeF&noverify=0&group_code=674102755)
 
 Email: 3859227514@qq.com
 
-赞助/其他事务，请加好友： [QQ: 3859227514](tencent://message/?uin=3859227514)
+For sponsorship/other matters, please add as a friend: [QQ: 3859227514](tencent://message/?uin=3859227514)
 
-## 域名列表
+## Domain List
 
-排名不分先后。
+Order does not imply priority.
 
 - [pmnet.top](https://www.pmnet.top)
 - [puremoon.net](https://www.puremoon.net)
 - [pmnet.uk](https://www.pmnet.uk)
-- [pmnet.work](javascript:alert("备案中，暂时无法访问"))
+- [pmnet.work](https://pmnet.work)
