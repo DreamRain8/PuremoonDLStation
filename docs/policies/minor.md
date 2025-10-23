@@ -1,50 +1,56 @@
-# 未成年人保护指引
+# Guidelines for the Protection of Minors
 
-> 最后更新于 2025/03/18
+> Last updated on March 18, 2025
 
-## 前言
 
-纯月 Puremoon 下载站十分关注未成年用户，并致力于维护未成年用户的身心健康和合法权益。
+## Preface
 
-为了切实保护未成年用户的合法权益，使未成年用户的身心健康不受侵害，本站特制定本政策，供未成年用户及其监护人参考。
+Puremoon Download Station attaches great importance to minor users and is committed to safeguarding their physical and mental health as well as their legitimate rights and interests.
 
-## 范围界定
+To effectively protect the legitimate rights and interests of minor users and prevent harm to their physical and mental health, this policy is formulated by our site for reference by minor users and their guardians.
 
-本文中提到的"未成年用户"或"未成年人"，指的是未满您居住国家或地区的法定年龄的居民：
 
-- 如属中国大陆、香港特别行政区、澳门特别行政区、印度尼西亚、马来西亚居民，为 18 岁；
-- 如属新加坡居民，则为 21 岁；
-- 如属日本、韩国、台湾地区、泰国居民，则为 20 岁；
-- 如属美国、加拿大居民，则以您所属州或省当地的法律为准；
-- 其他国家的法定成年年龄，则以您当地的法律为准。
+## Scope Definition
 
-## 监护人职责
+The term "minor users" or "minors" mentioned in this document refers to residents who have not reached the legal age of majority in the country or region where they reside:
 
-若您作为父母或合法监护人，您须负责监控您未成年的子女对网站功能的使用。
+- For residents of Mainland China, the Hong Kong Special Administrative Region, the Macau Special Administrative Region, Indonesia, and Malaysia, it is 18 years old;
+- For residents of Singapore, it is 21 years old;
+- For residents of Japan, South Korea, Taiwan Region of China, and Thailand, it is 20 years old;
+- For residents of the United States and Canada, it shall be subject to the local laws of the state or province where you reside;
+- For the legal age of majority in other countries, it shall be subject to your local laws.
 
-**本网页上某些内容及服务可能不适宜未满某一年龄的未成年用户。** 请在获取、下载前查阅有关内容及服务的年龄评级。内容一经下载，您的子女或所监护的未成年人便有可能获取到并不适合其年龄的内容。
 
-请妥善监控您的子女或所监护的未成年人，阻止其获取并不适合其年龄的内容或服务。**因监护人的主观疏失，导致其监护的未成年人最终获取到不适合其年龄的内容和服务的，纯月 Puremoon 不承担任何责任。**
+## Responsibilities of Guardians
 
-**纯月 Puremoon 就您或您相联账号的子女或任何其它用户对本协议的任何违反，概不承担任何责任。**您同意就任何由于您或您相联账号的子女对本协议的违反而导致纯月 Puremoon 被提出的申诉或要求，向纯月 Puremoon 作出赔偿，并同意就任何由于其它用户对本协议的违反而导致您被提出的申诉或要求时，使纯月 Puremoon 不受任何损害。
+If you are a parent or legal guardian, you shall be responsible for monitoring your minor children's use of the website's functions.
 
-## 未成年用户须知
+**Certain content and services on this webpage may not be suitable for minor users under a certain age.** Please check the age ratings of the relevant content and services before accessing or downloading them. Once the content is downloaded, your children or the minors under your guardianship may have access to content that is inappropriate for their age.
 
-纯月 Puremoon 很高兴能为您提供服务，但在使用我们的服务时，请注意以下要求：
+Please properly monitor your children or the minors under your guardianship to prevent them from accessing content or services that are inappropriate for their age. **Puremoon shall not be liable for any access by the minors under your guardianship to inappropriate content or services due to the guardian's subjective negligence.**
 
-1. 如果您未满 18 周岁，原则上你需要家长或监护人的同意才能访问及使用本网站；
-2. 纯月 Puremoon 上面的一部分内容可能并不适合您观看或者使用，在您使用前请注意查阅年龄分级或其他有关信息；
-3. 对于中国大陆用户：敬请注意，纯月 Puremoon 为遵守中国适用法律法规与政策，以及相关主管部门对于建立未成年人防沉迷措施的要求，有可能会对网站的部分内容做出一定程度上的限制，具体限制内容及范围将根据法律法规要求以及纯月 Puremoon 自身考量而决定，且限制将不时更改。
+**Puremoon shall not be liable for any breach of this agreement by you, your associated account's children, or any other user.** You agree to indemnify Puremoon against any claims or demands made against Puremoon arising from any breach of this agreement by you or your associated account's children, and agree to hold Puremoon harmless from any claims or demands made against you arising from any breach of this agreement by other users.
 
-## 隐私保护
 
-我们十分关注对未成年用户的隐私保护，并尝试落实到行动中。
+## Notes for Minor Users
 
-1. 纯月 Puremoon 将建立和维持合理的程序，以保护未成年人个人资料的保密性及安全性。
-2. **监护人应承担保护未成年人在网络环境下的隐私权的首要责任。**
-3. 未经监护人之同意，纯月 Puremoon 不会使用未成年人之个人资料，亦不会向任何第三方披露或传送可识别该未成人的个人资料；但是，由于相关法律法规要求、国家机关的查询要求、或在紧急情况下竭力维护用户个人和社会大众的隐私安全等原因除外。
-4. 纯月 Puremoon 可能会收集到未成年人的个人资料，这些资料**只是单纯作为保护未成年人参与网络活动时的安全，而非作为其它目的之利用**。纯月 Puremoon 保证不会要求未成年人提供额外的个人资料，以作为允许其参与网上活动的条件。
+Puremoon is pleased to provide services to you, but when using our services, please note the following requirements:
 
-## 联络我们
+1. If you are under 18 years of age, in principle, you need the consent of a parent or guardian to access and use this website;
+2. Some content on Puremoon may not be suitable for you to view or use. Please check the age ratings or other relevant information before using it;
+3. For users in Mainland China: Please note that Puremoon may restrict some content on the website to comply with applicable Chinese laws, regulations and policies, as well as the requirements of relevant competent authorities for establishing anti-addiction measures for minors. The specific content and scope of restrictions will be determined in accordance with legal and regulatory requirements and Puremoon's own considerations, and the restrictions will be changed from time to time.
 
-若您对以上未成年人保护事项有疑问、意见或建议，欢迎您联络 [3859227514@qq.com](mailto:3859227514@qq.com) 咨询。
+
+## Privacy Protection
+
+We attach great importance to the protection of the privacy of minor users and strive to put it into practice.
+
+1. Puremoon will establish and maintain reasonable procedures to protect the confidentiality and security of minors' personal data.
+2. **Guardians shall bear the primary responsibility for protecting minors' right to privacy in the online environment.**
+3. Without the consent of the guardian, Puremoon will not use minors' personal data, nor disclose or transmit personally identifiable data of the minor to any third party, except as required by relevant laws and regulations, at the request of state authorities, or in emergency situations to strive to protect the privacy and security of users and the public.
+4. Puremoon may collect personal data of minors, which is solely used to protect the safety of minors when participating in online activities, and not for other purposes. Puremoon undertakes not to require minors to provide additional personal data as a condition for allowing them to participate in online activities.
+
+
+## Contact Us
+
+If you have any questions, opinions or suggestions regarding the above matters concerning the protection of minors, please feel free to contact us at [3859227514@qq.com](mailto:3859227514@qq.com) for consultation.
